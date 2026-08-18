@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Kişisel fotoğraf arşivi ve doğrudan görsel bağlantıları.">
+  <title>Fotoğraf Arşivim</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav wrap" aria-label="Ana menü">
+      <a class="brand" href="./" aria-label="Galeri ana sayfası">
+        <span class="brand-mark" aria-hidden="true">◉</span>
+        <span>Fotoğraf Arşivim</span>
+      </a>
+      <a class="github-link" href="https://github.com/" target="_blank" rel="noreferrer">GitHub'da görüntüle <span aria-hidden="true">↗</span></a>
+    </nav>
+
+    <div class="hero-content wrap">
+      <p class="eyebrow">KİŞİSEL GÖRSEL DEPOSU</p>
+      <h1>Anları sakla.<br><em>Her yerde kullan.</em></h1>
+      <p class="intro">Kendi çektiğim fotoğraflardan oluşan sade bir arşiv. Her görselin bağlantısını tek tıkla kopyalayabilirsiniz.</p>
+      <div class="stats" aria-live="polite">
+        <div><strong id="photo-count">0</strong><span>Fotoğraf</span></div>
+        <div><strong id="category-count">0</strong><span>Kategori</span></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="gallery-section" aria-labelledby="gallery-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">KOLEKSİYON</p>
+          <h2 id="gallery-title">Tüm fotoğraflar</h2>
+        </div>
+        <div id="filters" class="filters" aria-label="Kategori filtreleri"></div>
+      </div>
+
+      <div id="gallery" class="gallery"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <span aria-hidden="true">□</span>
+        <h3>Henüz fotoğraf yok</h3>
+        <p>İlk görselinizi <code>images/</code> altındaki bir kategoriye ekleyip galeri listesini güncelleyin.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-inner">
+      <p>Fotoğraf Arşivim <span>—</span> GitHub Pages ile yayınlanır.</p>
+      <a href="#">Yukarı dön ↑</a>
+    </div>
+  </footer>
+
+  <dialog id="lightbox" class="lightbox">
+    <button class="close-button" type="button" aria-label="Önizlemeyi kapat">×</button>
+    <figure>
+      <img id="lightbox-image" alt="">
+      <figcaption id="lightbox-caption"></figcaption>
+    </figure>
+  </dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite">URL panoya kopyalandı</div>
+
+  <script src="gallery-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
