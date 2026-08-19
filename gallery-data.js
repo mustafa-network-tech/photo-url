@@ -54,5 +54,15 @@ window.GALLERY_IMAGES = [
         "name":  "martı_günbatımıdeniz.JPG",
         "category":  "doga",
         "path":  "images/doga/martı_günbatımıdeniz.JPG"
+    },
+    {
+        "name":  "IMG_5001.JPG",
+        "category":  "manzara",
+        "path":  "images/manzara/IMG_5001.JPG"
+    },
+    {
+        "name":  "IMG_5054.JPG",
+        "category":  "manzara",
+        "path":  "images/manzara/IMG_5054.JPG"
     }
 ];
