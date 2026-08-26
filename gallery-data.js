@@ -389,6 +389,11 @@ window.GALLERY_IMAGES = [
         "name":  "logo.jpeg",
         "category":  "doga",
         "path":  "images/doga/logo.jpeg"
+    },
+    {
+        "name": "logo-transparent-v2.png",
+        "category": "doga",
+        "path": "images/doga/logo-transparent-v2.png"
     }
 
 ];
