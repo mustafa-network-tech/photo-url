@@ -374,5 +374,16 @@ window.GALLERY_IMAGES = [
         "name":  "IMG_6028.JPG",
         "category":  "tirilye",
         "path":  "images/tirilye/IMG_6028.JPG"
+    },
+    {
+        "name":  "duygusal-1.jpeg",
+        "category":  "duygusal",
+        "path":  "images/duygusal/duygusal-1.jpeg"
+    },
+     {
+        "name":  "duygusal.jpeg",
+        "category":  "duygusal",
+        "path":  "images/duygusal/duygusal.jpeg"
     }
+
 ];
