@@ -384,6 +384,11 @@ window.GALLERY_IMAGES = [
         "name":  "duygusal.jpeg",
         "category":  "duygusal",
         "path":  "images/duygusal/duygusal.jpeg"
+    },
+    {
+        "name":  "logo.jpeg",
+        "category":  "doga",
+        "path":  "images/doga/logo.jpeg"
     }
 
 ];
