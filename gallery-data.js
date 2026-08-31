@@ -400,5 +400,10 @@ window.GALLERY_IMAGES = [
         "name": "musty1.jpeg",
         "category": "doga",
         "path": "images/doga/musty1.jpeg"
+    },
+    {
+        "name": "musty1.jpeg",
+        "category": "doga",
+        "path": "images/doga/musty2.jpeg"
     }
 ];
