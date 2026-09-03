@@ -51,9 +51,44 @@ window.GALLERY_IMAGES = [
         "path":  "images/doga/IMG_5784.JPG"
     },
     {
+        "name":  "logo.jpeg",
+        "category":  "doga",
+        "path":  "images/doga/logo.jpeg"
+    },
+    {
+        "name":  "logo-transparent.png",
+        "category":  "doga",
+        "path":  "images/doga/logo-transparent.png"
+    },
+    {
+        "name":  "logo-transparent-v2.png",
+        "category":  "doga",
+        "path":  "images/doga/logo-transparent-v2.png"
+    },
+    {
         "name":  "martı_günbatımıdeniz.JPG",
         "category":  "doga",
         "path":  "images/doga/martı_günbatımıdeniz.JPG"
+    },
+    {
+        "name":  "musty1.jpeg",
+        "category":  "doga",
+        "path":  "images/doga/musty1.jpeg"
+    },
+    {
+        "name":  "musty2.jpeg",
+        "category":  "doga",
+        "path":  "images/doga/musty2.jpeg"
+    },
+    {
+        "name":  "duygusal.jpeg",
+        "category":  "duygusal",
+        "path":  "images/duygusal/duygusal.jpeg"
+    },
+    {
+        "name":  "duygusal-1.jpeg",
+        "category":  "duygusal",
+        "path":  "images/duygusal/duygusal-1.jpeg"
     },
     {
         "name":  "IMG_3734.JPG",
@@ -159,6 +194,51 @@ window.GALLERY_IMAGES = [
         "name":  "IMG_3770.JPG",
         "category":  "gokceeada",
         "path":  "images/gokceeada/IMG_3770.JPG"
+    },
+    {
+        "name":  "günışıgı.jpg",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/günışıgı.jpg"
+    },
+    {
+        "name":  "IMG_6325.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6325.JPG"
+    },
+    {
+        "name":  "IMG_6328.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6328.JPG"
+    },
+    {
+        "name":  "IMG_6331.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6331.JPG"
+    },
+    {
+        "name":  "IMG_6342.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6342.JPG"
+    },
+    {
+        "name":  "IMG_6351.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6351.JPG"
+    },
+    {
+        "name":  "IMG_6352.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6352.JPG"
+    },
+    {
+        "name":  "IMG_6359.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6359.JPG"
+    },
+    {
+        "name":  "IMG_6411.JPG",
+        "category":  "gonul-pusulasi",
+        "path":  "images/gonul-pusulasi/IMG_6411.JPG"
     },
     {
         "name":  "26_12günbatımı.JPG",
@@ -374,36 +454,5 @@ window.GALLERY_IMAGES = [
         "name":  "IMG_6028.JPG",
         "category":  "tirilye",
         "path":  "images/tirilye/IMG_6028.JPG"
-    },
-    {
-        "name":  "duygusal-1.jpeg",
-        "category":  "duygusal",
-        "path":  "images/duygusal/duygusal-1.jpeg"
-    },
-     {
-        "name":  "duygusal.jpeg",
-        "category":  "duygusal",
-        "path":  "images/duygusal/duygusal.jpeg"
-    },
-    {
-        "name":  "logo.jpeg",
-        "category":  "doga",
-        "path":  "images/doga/logo.jpeg"
-    },
-    {
-        "name": "logo-transparent-v2.png",
-        "category": "doga",
-        "path": "images/doga/logo-transparent-v2.png"
-    },
-
- {
-        "name": "musty1.jpeg",
-        "category": "doga",
-        "path": "images/doga/musty1.jpeg"
-    },
-    {
-        "name": "musty1.jpeg",
-        "category": "doga",
-        "path": "images/doga/musty2.jpeg"
     }
 ];
