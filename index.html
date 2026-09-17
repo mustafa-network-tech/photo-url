@@ -17,7 +17,7 @@
         <span class="brand-mark" aria-hidden="true">◉</span>
         <span>Fotoğraf Arşivim</span>
       </a>
-      <a class="github-link" href="https://github.com/" target="_blank" rel="noreferrer">GitHub'da görüntüle <span aria-hidden="true">↗</span></a>
+      <a class="github-link" href="https://github.com/mustafa-network-tech/photo-url" target="_blank" rel="noreferrer">GitHub'da görüntüle <span aria-hidden="true">↗</span></a>
     </nav>
 
     <div class="hero-content wrap">
@@ -34,25 +34,27 @@
   <main class="wrap">
     <section class="gallery-section" aria-labelledby="gallery-title">
       <div class="section-heading">
-        <div>
-          <p class="eyebrow">KOLEKSİYON</p>
-          <h2 id="gallery-title">Tüm fotoğraflar</h2>
-        </div>
-        <div id="filters" class="filters" aria-label="Kategori filtreleri"></div>
+        <div><p class="eyebrow">KOLEKSİYON</p><h2 id="gallery-title">Fotoğrafları keşfet</h2></div>
+        <div class="collection-controls"><div id="filters" class="filters" aria-label="Ana kategori filtreleri"></div><div class="locked-links"><a href="?koleksiyon=doga">🔒 Doğa</a><a href="?koleksiyon=gonul-pusulasi">🔒 Gönül Pusulası</a></div></div>
       </div>
-
-      <div id="gallery" class="gallery"></div>
-      <div id="empty-state" class="empty-state" hidden>
-        <span aria-hidden="true">□</span>
-        <h3>Henüz fotoğraf yok</h3>
-        <p>İlk görselinizi <code>images/</code> altındaki bir kategoriye ekleyip galeri listesini güncelleyin.</p>
-      </div>
+      <section id="locked-area" class="empty-state" hidden><h3>🔒 Kilitli alan</h3><p>Bu koleksiyonu görmek için şifrenizi girin.</p><form id="login-form"><label>Şifre<input id="password" type="password" autocomplete="current-password" required></label><button class="copy-button" type="submit">Kilidi aç</button></form><p id="login-message" role="status"></p></section>
+      <button id="logout" class="filter-button" type="button" hidden>Oturumu kapat</button>
+      <form id="search-form" class="search-panel" role="search">
+        <label class="search-label">Arama<input id="search" type="search" placeholder="Fotoğraf, şehir veya konu ara…" autocomplete="off"></label>
+        <label>Kategori<select id="subcategory"><option value="">Tüm kategoriler</option></select></label>
+        <label>Alt kategori<select id="detail"><option value="">Tüm alt kategoriler</option></select></label>
+        <button id="reset" class="filter-button" type="button">Filtreleri temizle</button>
+      </form>
+      <p id="result-count" class="result-count" role="status" aria-live="polite"></p>
+      <div id="gallery"></div>
+      <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">□</span><h3>Fotoğraf bulunamadı</h3><p>Başka bir arama deneyin veya filtreleri temizleyin.</p></div>
+      <button id="load-more" class="filter-button load-more" type="button" hidden>Daha fazla göster</button>
     </section>
   </main>
 
   <footer>
     <div class="wrap footer-inner">
-      <p>Fotoğraf Arşivim <span>—</span> GitHub Pages ile yayınlanır.</p>
+      <p>Fotoğraf Arşivim <span>—</span> Mavi Kadraj fotoğraf koleksiyonu.</p>
       <a href="#">Yukarı dön ↑</a>
     </div>
   </footer>
@@ -68,6 +70,8 @@
   <div id="toast" class="toast" role="status" aria-live="polite">URL panoya kopyalandı</div>
 
   <script src="gallery-data.js"></script>
+  <script src="gallery-model.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
+

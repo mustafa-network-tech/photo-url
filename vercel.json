@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".site",
+  "functions": {
+    "api/private.js": {
+      "includeFiles": "private-web/**"
+    }
+  },
+  "framework": null
+}

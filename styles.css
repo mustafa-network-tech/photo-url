@@ -121,3 +121,31 @@ footer { border-top: 1px solid var(--line); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
+
+/* Mevcut renkler ve kart tasarımı korunarak koleksiyon kontrolleri. */
+[hidden] { display: none !important; }
+.hero { background: linear-gradient(90deg,rgba(15,35,24,.85),rgba(23,47,32,.40)),url("https://mustafa-network-tech.github.io/photo-url/images/doga/hero.jpeg") center 55% / cover no-repeat; }
+.search-panel { display:grid;grid-template-columns:2fr 1fr 1fr auto;gap:14px;align-items:end;padding:22px;background:var(--card);border:1px solid var(--line);border-radius:10px; }
+.search-panel label { display:flex;flex-direction:column;gap:8px;font-size:.78rem;font-weight:700;color:var(--green);min-width:0; }
+.search-panel input,.search-panel select { width:100%;min-width:0;padding:12px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);font:inherit;font-size:.88rem; }
+.search-panel button { min-height:43px; }
+input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible { outline:3px solid var(--accent);outline-offset:3px; }
+.result-count { margin:22px 0 32px;color:var(--muted);font-size:.85rem; }
+.featured-group { margin-bottom:38px; }
+.group-heading { display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:16px; }
+.group-heading h3 { font:600 1.45rem "Playfair Display",Georgia,serif;margin:0; }
+.view-all { border:0;background:none;color:var(--green);font:700 .8rem "DM Sans",sans-serif;cursor:pointer;flex-shrink:0;padding:8px 0; }
+.load-more { display:block;margin:30px auto 0; }
+.gallery-section { padding-top:48px; }
+.category { max-width:50%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }
+@media(max-width:900px) { .search-panel { grid-template-columns:1fr 1fr; } .search-label { grid-column:1/-1; } }
+@media(max-width:560px) { .search-panel { grid-template-columns:1fr;padding:16px; } .group-heading h3 { font-size:1.18rem; } .group-heading { align-items:start; } }
+
+.collection-controls { display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:end; }
+.locked-links { display:flex;gap:14px;flex-wrap:wrap; }
+.locked-links a { color:var(--green);text-decoration:none;font-size:.8rem;font-weight:700; }
+#login-form { display:flex;gap:12px;justify-content:center;align-items:end;margin:22px 0; }
+#login-form label { display:flex;flex-direction:column;gap:8px;text-align:left;font-size:.85rem; }
+#password { border:1px solid var(--line);border-radius:6px;padding:10px;background:var(--card);max-width:100%; }
+#logout { margin-bottom:16px; }
+@media(max-width:560px) { .collection-controls { justify-content:start; } #login-form { flex-direction:column;align-items:center; } }

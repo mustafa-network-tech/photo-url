@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "public_images": 1411,
+  "featured_photos": 50,
+  "topic_groups": 6,
+  "public_thumbnails": 1411,
+  "private_doga_photos": 16,
+  "unauthorized_list_and_image_blocked": true,
+  "private_files_excluded_from_static_build": true,
+  "wrong_password_rejected": true,
+  "valid_password_and_cookie_verified": true,
+  "tampered_session_rejected": true,
+  "path_traversal_and_cross_collection_rejected": true,
+  "cross_origin_login_rejected": true,
+  "unconfigured_server_fails_closed": true,
+  "original_images_unchanged": true
+}
