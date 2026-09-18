@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Kişisel fotoğraf arşivi ve doğrudan görsel bağlantıları.">
-  <title>Fotoğraf Arşivim</title>
+  <meta name="description" content="Mavi Kadraj Fotoğraf Arşivi. Kadrajdan arşive, yılların biriktirdiği fotoğraflar.">
+  <title>Mavi Kadraj Fotoğraf Arşivi</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
@@ -12,21 +12,42 @@
 </head>
 <body>
   <header class="hero">
+    <div class="hero-slides" aria-hidden="true">
+      <img class="hero-slide is-active" src="https://photo-url-five.vercel.app/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3789.JPG" alt="" fetchpriority="high" decoding="async">
+      <img class="hero-slide" alt="" decoding="async">
+    </div>
     <nav class="nav wrap" aria-label="Ana menü">
       <a class="brand" href="./" aria-label="Galeri ana sayfası">
         <span class="brand-mark" aria-hidden="true">◉</span>
-        <span>Fotoğraf Arşivim</span>
+        <span>Mavi Kadraj</span>
       </a>
-      <a class="github-link" href="https://github.com/mustafa-network-tech/photo-url" target="_blank" rel="noreferrer">GitHub'da görüntüle <span aria-hidden="true">↗</span></a>
     </nav>
 
     <div class="hero-content wrap">
-      <p class="eyebrow">KİŞİSEL GÖRSEL DEPOSU</p>
-      <h1>Anları sakla.<br><em>Her yerde kullan.</em></h1>
-      <p class="intro">Kendi çektiğim fotoğraflardan oluşan sade bir arşiv. Her görselin bağlantısını tek tıkla kopyalayabilirsiniz.</p>
-      <div class="stats" aria-live="polite">
-        <div><strong id="photo-count">0</strong><span>Fotoğraf</span></div>
-        <div><strong id="category-count">0</strong><span>Kategori</span></div>
+      <p class="eyebrow">FOTOĞRAF KOLEKSİYONU</p>
+      <h1>Mavi Kadraj <span>Fotoğraf Arşivi</span></h1>
+      <p class="intro">Kadrajdan arşive, yılların biriktirdiği fotoğraflar.</p>
+      <div class="hero-actions">
+        <a class="hero-cta" href="#gallery-title">Fotoğrafları Keşfet <span aria-hidden="true">↓</span></a>
+        <div class="stats" aria-live="polite">
+          <div><strong id="photo-count">0</strong><span>Fotoğraf</span></div>
+          <div><strong id="category-count">0</strong><span>Kategori</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="hero-bottom wrap">
+      <div class="hero-signature">
+        <div class="hero-socials">
+          <a href="https://mustafaoner.net" target="_blank" rel="noopener noreferrer">mustafaoner.net <span aria-hidden="true">↗</span></a>
+          <a href="https://www.instagram.com/mavi_kadraj14/" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none"/></svg>@mavi_kadraj14</a>
+        </div>
+        <p class="hero-credit">Product by <strong>MK DIGITAL SYSTEMS</strong></p>
+      </div>
+      <div class="hero-controls" role="group" aria-label="Hero fotoğraf kontrolleri" hidden>
+        <button class="hero-arrow" id="hero-prev" type="button" aria-label="Önceki fotoğraf">←</button>
+        <div class="hero-dots" role="group" aria-label="Fotoğraf seçimi"></div>
+        <button class="hero-arrow" id="hero-next" type="button" aria-label="Sonraki fotoğraf">→</button>
+        <button class="hero-pause" id="hero-pause" type="button" aria-label="Otomatik geçişi duraklat">Ⅱ</button>
       </div>
     </div>
   </header>
@@ -54,7 +75,7 @@
 
   <footer>
     <div class="wrap footer-inner">
-      <p>Fotoğraf Arşivim <span>—</span> Mavi Kadraj fotoğraf koleksiyonu.</p>
+      <p>Mavi Kadraj <span>—</span> Fotoğraf Arşivi.</p>
       <a href="#">Yukarı dön ↑</a>
     </div>
   </footer>
@@ -72,6 +93,7 @@
   <script src="gallery-data.js"></script>
   <script src="gallery-model.js"></script>
   <script src="app.js"></script>
+  <script src="hero-slider.js"></script>
 </body>
 </html>
 

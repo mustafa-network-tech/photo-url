@@ -16,7 +16,7 @@ function scan(dir){for(const d of fs.readdirSync(dir,{withFileTypes:true})){
  for(const asset of [item.path,item.thumbnail].filter(Boolean)){const dest=path.join(out,asset);fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(path.join(root,asset),dest);}
 }}
 scan(path.join(root,'images'));
-for(const name of ['index.html','styles.css','app.js','gallery-model.js'])fs.copyFileSync(path.join(root,name),path.join(out,name));
+for(const name of ['index.html','styles.css','app.js','gallery-model.js','hero-slider.js'])fs.copyFileSync(path.join(root,name),path.join(out,name));
 fs.writeFileSync(path.join(out,'gallery-data.js'),'window.GALLERY_IMAGES = '+JSON.stringify(publicItems)+';\n');
 fs.writeFileSync(path.join(out,'robots.txt'),'User-agent: *\nDisallow: /api/\n');
 console.log(publicItems.length+' genel görsel; özel klasörler statik çıktıya alınmadı.');
