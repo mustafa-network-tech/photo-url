@@ -18,5 +18,10 @@
     });
     return groups.concat([...cities.values()].sort((a,b)=>a.label.localeCompare(b.label,'tr')).map(g=>({...g,items:sample(g.items)})));
   }
-  root.GalleryModel={fold,publicItems,filter,featured};
+  function alt(item) {
+    const filename=String(item.name||'');
+    const generated=[filename,filename.replace(/_/g,' '),filename.replace(/\.[^.]+$/,''),filename.replace(/\.[^.]+$/,'').replace(/_/g,' ')];
+    return item.title || item.description || (item.label&&!generated.includes(item.label)?item.label:`${item.category || 'Mavi Kadraj arşivi'} fotoğrafı`);
+  }
+  root.GalleryModel={fold,publicItems,filter,featured,alt};
 })(typeof window === 'undefined' ? globalThis : window);

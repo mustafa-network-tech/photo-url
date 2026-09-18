@@ -163,7 +163,7 @@ input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible { 
 .featured-group { margin-bottom:38px; }
 .group-heading { display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:16px; }
 .group-heading h3 { font:600 1.45rem "Playfair Display",Georgia,serif;margin:0; }
-.view-all { border:0;background:none;color:var(--green);font:700 .8rem "DM Sans",sans-serif;cursor:pointer;flex-shrink:0;padding:8px 0; }
+.view-all { border:0;background:none;color:var(--green);font:700 .8rem "DM Sans",sans-serif;cursor:pointer;flex-shrink:0;padding:8px 0;text-decoration:none; }
 .load-more { display:block;margin:30px auto 0; }
 .gallery-section { padding-top:48px; }
 .category { max-width:50%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap; }

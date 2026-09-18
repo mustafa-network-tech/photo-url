@@ -1,5 +1,11 @@
 # Fotoğraf Arşivim
 
+## SEO production çıktısını kontrol etme
+
+`npm run build` ana sayfayı ve gerçek kategorilerin `/kategori/<slug>/` sayfalarını ilk HTML içeriğiyle `.site` altında üretir. Canonical/OG domaini `https://arsiv.mavikadraj.com.tr` adresidir. `sitemap.xml`, kategori sayfalarına ilişkilendirilen Google image extension girdilerini içerir; eksik dosyalar kaynak kayıtlardan silinmez ve sitemap'e alınmaz. Slug çakışması build'i durdurur.
+
+`node scripts/serve-production.cjs` ile çıktıyı `http://127.0.0.1:8768/` adresinde açın; ayrı kabukta `node scripts/verify-seo.cjs` çalıştırın. Sonuçlar `SEO-TEST-RESULTS.json` dosyasına yazılır. PowerShell npm execution policy hatası verirse `npm.cmd run build` kullanın. Mevcut `npm run dev` kaynak dosyaları ve korumalı API'yi çalıştırır; SEO route doğrulaması için production sunucusunu kullanın.
+
 Mevcut yeşil/krem tasarım ve URL kopyalama özelliği korunur. Ana sayfa yalnızca KONULAR ve ŞEHİRLER klasörlerini gösterir.
 
 ## Görünür koleksiyonlar

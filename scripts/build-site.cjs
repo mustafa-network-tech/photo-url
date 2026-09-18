@@ -12,11 +12,12 @@ function scan(dir){for(const d of fs.readdirSync(dir,{withFileTypes:true})){
  const item={name:d.name,collection,category:parts[1]||parts[0],detail:parts.slice(2,-1).join(' / '),label:d.name.replace(/_/g,' '),tags:parts.slice(1,-1),path:'images/'+rel};
  const thumb='thumbnails/'+rel+'.jpg';if(fs.existsSync(path.join(root,thumb)))item.thumbnail=thumb;
  const tagsFile=path.join(root,'photo-tags.json');if(fs.existsSync(tagsFile)){const tags=JSON.parse(fs.readFileSync(tagsFile,'utf8'))[item.path];if(tags){item.tags.push(...(tags.tags||[]));item.label=tags.label||item.label;}}
+ Object.assign(item,require('./image-size.cjs')(path.join(root,item.thumbnail||item.path)));
  publicItems.push(item);
  for(const asset of [item.path,item.thumbnail].filter(Boolean)){const dest=path.join(out,asset);fs.mkdirSync(path.dirname(dest),{recursive:true});fs.copyFileSync(path.join(root,asset),dest);}
 }}
 scan(path.join(root,'images'));
 for(const name of ['index.html','styles.css','app.js','gallery-model.js','hero-slider.js'])fs.copyFileSync(path.join(root,name),path.join(out,name));
 fs.writeFileSync(path.join(out,'gallery-data.js'),'window.GALLERY_IMAGES = '+JSON.stringify(publicItems)+';\n');
-fs.writeFileSync(path.join(out,'robots.txt'),'User-agent: *\nDisallow: /api/\n');
+require('./seo-site.cjs')(root,out,publicItems);
 console.log(publicItems.length+' genel görsel; özel klasörler statik çıktıya alınmadı.');

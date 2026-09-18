@@ -10,7 +10,12 @@ const subcategory = document.querySelector('#subcategory');
 const detailSelect = document.querySelector('#detail');
 const loadMore = document.querySelector('#load-more');
 const state = {collection:'',category:'',detail:'',search:''};
+if(window.GALLERY_CATEGORY)Object.assign(state,{collection:window.GALLERY_CATEGORY.collection,category:window.GALLERY_CATEGORY.category});
 const params = new URLSearchParams(location.search);
+if(params.has('koleksiyon')){
+  const robots=document.querySelector('meta[name="robots"]');
+  if(robots)robots.content='noindex,follow';
+}
 const privateRoute = params.get('koleksiyon');
 const privateCollection = ['doga','gonul-pusulasi','duygusal'].includes(privateRoute) ? privateRoute : null;
 let images = GalleryModel.publicItems(window.GALLERY_IMAGES || []);
@@ -41,7 +46,7 @@ function copyUrl(path, button) {
 
 function openLightbox(item) {
   lightboxImage.src = item.path;
-  lightboxImage.alt = item.name;
+  lightboxImage.alt = GalleryModel.alt(item);
   lightboxCaption.textContent = `${item.name} · ${[item.category, item.detail].filter(Boolean).join(' · ')}`;
   lightbox.showModal();
 }
@@ -56,9 +61,10 @@ function createCard(item) {
   imageButton.setAttribute('aria-label', `${item.name} görselini büyüt`);
   const img = document.createElement('img');
   img.src = item.thumbnail || item.path;
-  img.alt = item.name;
+  img.alt = GalleryModel.alt(item);
   img.loading = 'lazy';
   img.decoding = 'async';
+  if(item.width&&item.height){img.width=item.width;img.height=item.height;}
   imageButton.append(img);
   imageButton.addEventListener('click', () => openLightbox(item));
 
@@ -133,8 +139,9 @@ function renderGallery() {
       const section=document.createElement('section');section.className='featured-group';
       const header=document.createElement('div');header.className='group-heading';
       const title=document.createElement('h3');title.textContent=group.label;
-      const link=document.createElement('button');link.type='button';link.className='view-all';link.textContent='Tümünü gör →';
-      link.setAttribute('aria-label',group.label+' fotoğraflarının tümünü gör');link.addEventListener('click',()=>selectGroup(group));
+      const link=document.createElement('a');link.className='view-all';link.textContent='Tümünü gör →';
+      link.href='/kategori/'+GalleryModel.fold(group.category).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'/';
+      link.setAttribute('aria-label',group.label+' fotoğraflarının tümünü gör');link.addEventListener('click',event=>{if(event.button===0&&!event.ctrlKey&&!event.metaKey&&!event.shiftKey&&!event.altKey){event.preventDefault();selectGroup(group);}});
       header.append(title,link);const grid=document.createElement('div');grid.className='gallery';grid.append(...group.items.map(createCard));section.append(header,grid);gallery.append(section);
     }
     document.querySelector('#result-count').textContent=groups.reduce((n,g)=>n+g.items.length,0)+' seçilmiş fotoğraf · Konular ve şehirlerden';
@@ -146,8 +153,9 @@ function renderGallery() {
   loadMore.hidden=isHome||limit>=visible.length;
 }
 function start() {
-  document.querySelector('#photo-count').textContent=images.length;
-  document.querySelector('#category-count').textContent=new Set(images.map(x=>x.collection+'|'+x.category)).size;
+  const countScope=window.GALLERY_CATEGORY&&!privateCollection?images.filter(x=>x.collection===window.GALLERY_CATEGORY.collection&&x.category===window.GALLERY_CATEGORY.category):images;
+  document.querySelector('#photo-count').textContent=countScope.length;
+  document.querySelector('#category-count').textContent=new Set(countScope.map(x=>x.collection+'|'+x.category)).size;
   if(privateCollection)document.querySelector('#gallery-title').textContent=privateCollection==='doga'?'Doğa':privateCollection==='duygusal'?'Duygusal':'Gönül Pusulası';
   renderFilters();renderOptions();renderGallery();
 }

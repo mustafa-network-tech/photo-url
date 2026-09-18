@@ -1,0 +1,129 @@
+{
+  "sourceRecords": 1411,
+  "physical": 1409,
+  "publicPhysical": 1409,
+  "uiTotal": 1409,
+  "categories": 26,
+  "accessible": 1409,
+  "thumbnailsChecked": 1409,
+  "missing": [
+    "images/KONULAR/Göller ve Akarsular/IMG_4638.JPG",
+    "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4597.JPG"
+  ],
+  "orphan": [],
+  "caseMismatch": [],
+  "sitemapPages": 27,
+  "sitemapImages": 1409,
+  "dimensions": 1409,
+  "pageResults": [
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/",
+      "cards": 50
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/aycicegi-tarlalari/",
+      "cards": 8
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/bitkiler-ve-agaclar/",
+      "cards": 76
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/can-dostlar/",
+      "cards": 46
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/deniz-ulasimi/",
+      "cards": 20
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/deniz-ve-sahiller/",
+      "cards": 323
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/doga-ve-manzara/",
+      "cards": 40
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/gece-ve-mavi-saat/",
+      "cards": 4
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/gokyuzu-ve-bulutlar/",
+      "cards": 26
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/goller-ve-akarsular/",
+      "cards": 59
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/gunbatimi/",
+      "cards": 154
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/kuslar/",
+      "cards": 167
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/kirsal-yasam-ve-yollar/",
+      "cards": 16
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/mekanlar-ve-yasam-detaylari/",
+      "cards": 4
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/parklar-ve-bahceler/",
+      "cards": 9
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/ruzgar-turbinleri/",
+      "cards": 29
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/sokak-sanati-ve-detaylar/",
+      "cards": 26
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/sicak-hava-balonlari/",
+      "cards": 5
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/tas-duvarlar-ve-mimari-detaylar/",
+      "cards": 3
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/yakin-cekim-ve-doga-detaylari/",
+      "cards": 44
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/yel-degirmenleri/",
+      "cards": 12
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/cicekler/",
+      "cards": 101
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/bolu/",
+      "cards": 76
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/bozcaada/",
+      "cards": 82
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/bursa/",
+      "cards": 15
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/gokceada/",
+      "cards": 53
+    },
+    {
+      "url": "https://arsiv.mavikadraj.com.tr/kategori/canakkale/",
+      "cards": 11
+    }
+  ],
+  "robots": "User-agent: *\nDisallow: /api/\n\nSitemap: https://arsiv.mavikadraj.com.tr/sitemap.xml"
+}
