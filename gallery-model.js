@@ -1,6 +1,12 @@
 (function(root) {
   const fold = value => String(value || '').toLocaleLowerCase('tr-TR').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i');
   const publicItems = items => items.filter(x => x.collection === 'konular' || x.collection === 'sehirler');
+  const categorySlug = value => fold(value).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  function archiveUrl(group, pathname = '/') {
+    const query = new URLSearchParams({category:categorySlug(group.category)});
+    if(group.detail)query.set('detail',group.detail);
+    return pathname+'?'+query;
+  }
   const filter = (items, state) => items.filter(x => (!state.collection || x.collection === state.collection) && (!state.category || x.category === state.category) && (!state.detail || x.detail === state.detail) && fold(state.search).trim().split(/\s+/).every(word => fold([x.name,x.label,x.category,x.detail,...(x.tags || [])].join(' ')).includes(word)));
   const preferred = ['Günbatımı','Deniz ve Sahiller','Can Dostlar','Çiçekler','Kuşlar','Doğa ve Manzara'];
   const sample = items => [items[0],items[Math.floor(items.length/2)],items[items.length-1]].filter((x,i,a) => x && a.indexOf(x) === i);
@@ -23,5 +29,5 @@
     const generated=[filename,filename.replace(/_/g,' '),filename.replace(/\.[^.]+$/,''),filename.replace(/\.[^.]+$/,'').replace(/_/g,' ')];
     return item.title || item.description || (item.label&&!generated.includes(item.label)?item.label:`${item.category || 'Mavi Kadraj arşivi'} fotoğrafı`);
   }
-  root.GalleryModel={fold,publicItems,filter,featured,alt};
+  root.GalleryModel={fold,publicItems,filter,featured,alt,categorySlug,archiveUrl};
 })(typeof window === 'undefined' ? globalThis : window);

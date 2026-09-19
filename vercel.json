@@ -6,5 +6,15 @@
       "includeFiles": "private-web/**"
     }
   },
-  "framework": null
+  "framework": null,
+  "redirects": [
+    {"source":"/kategori/:slug","destination":"/?category=:slug","statusCode":301},
+    {"source":"/kategori/:slug/","destination":"/?category=:slug","statusCode":301},
+    {"source":"/tr/kategori/:slug","destination":"/tr/?category=:slug","statusCode":301},
+    {"source":"/tr/kategori/:slug/","destination":"/tr/?category=:slug","statusCode":301}
+  ],
+  "rewrites": [
+    {"source":"/tr","destination":"/index.html"},
+    {"source":"/tr/","destination":"/index.html"}
+  ]
 }

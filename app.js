@@ -19,6 +19,10 @@ if(params.has('koleksiyon')){
 const privateRoute = params.get('koleksiyon');
 const privateCollection = ['doga','gonul-pusulasi','duygusal'].includes(privateRoute) ? privateRoute : null;
 let images = GalleryModel.publicItems(window.GALLERY_IMAGES || []);
+if(!privateCollection && params.has('category')) {
+  const selected=images.find(item=>GalleryModel.categorySlug(item.category)===params.get('category'));
+  if(selected)Object.assign(state,{collection:selected.collection,category:selected.category,detail:params.get('detail')||''});
+}
 let limit = 36;
 let toastTimer;
 const absoluteUrl = path => new URL(path, document.baseURI).href;
@@ -130,6 +134,15 @@ function selectGroup(group) {
   document.querySelector('#search-form').scrollIntoView({block:'start',behavior:'smooth'});
 }
 function renderGallery() {
+  // Keep shared category links in sync when the existing controls change or clear them.
+  if(!privateCollection) {
+    const url=new URL(location.href);
+    if(state.category)url.searchParams.set('category',GalleryModel.categorySlug(state.category));
+    else url.searchParams.delete('category');
+    if(state.category&&state.detail)url.searchParams.set('detail',state.detail);
+    else url.searchParams.delete('detail');
+    if(url.href!==location.href)history.replaceState(null,'',url);
+  }
   const isHome=!privateCollection&&!state.collection&&!state.category&&!state.detail&&!state.search.trim();
   const visible=GalleryModel.filter(images,state);
   gallery.replaceChildren();
@@ -140,7 +153,7 @@ function renderGallery() {
       const header=document.createElement('div');header.className='group-heading';
       const title=document.createElement('h3');title.textContent=group.label;
       const link=document.createElement('a');link.className='view-all';link.textContent='Tümünü gör →';
-      link.href='/kategori/'+GalleryModel.fold(group.category).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')+'/';
+      link.href=GalleryModel.archiveUrl(group,location.pathname);
       link.setAttribute('aria-label',group.label+' fotoğraflarının tümünü gör');link.addEventListener('click',event=>{if(event.button===0&&!event.ctrlKey&&!event.metaKey&&!event.shiftKey&&!event.altKey){event.preventDefault();selectGroup(group);}});
       header.append(title,link);const grid=document.createElement('div');grid.className='gallery';grid.append(...group.items.map(createCard));section.append(header,grid);gallery.append(section);
     }
