@@ -1,0 +1,3803 @@
+{
+  "summary": {
+    "total": 237,
+    "validGps": 0,
+    "missingGps": 237,
+    "invalidGps": 0,
+    "points": 0
+  },
+  "files": [
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4596.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4596.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "43e7cbd41ab46d652a7b5860ca9941a5c59050ea196dfa079f65e33e9443fb2d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4613.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4613.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "6396013e6a387f7cb82729ccd27c43f2d648c8ba93d1f8fcc2b99653581f7fba",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4614.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4614.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "33f3afd1145e3dde96dacd49065295e3ab8875954f605bd007a81aac85899e68",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4615.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4615.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "0686d5dcea757ba0bbde14afaf5a4b4c929e250f6444c8f09ade69fbc68930bc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4616.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4616.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "77016b18a47fa48bdd2e0fbd49f9e65a6c6015fcae97f8b3050ad57d233c2c76",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4622.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4622.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "31606781f0df2ec5c44c4da355521f3c4f6fb4714bc8a21bf8e832e57043bf29",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4623.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4623.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "02792c6e84d368ad75bb10c3f7909af9d81eeb7560cf52a913d0d2c70d872c09",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4624.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4624.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "041f8df5b40d90ee1e2c70553a146ba025a670ff3b20d1b1cd343936d321e83c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4625.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4625.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "72347a2c1d068a0098a3ceb70239e3399e0719f7bfb3cf3afeaa0e448ffd5ffa",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4630.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4630.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "dae79def5cb4da85299c7ed182fd652878e2579a25c285576da0467742b84f20",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Atatürk Orman Parkı/IMG_4631.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/Atat%C3%BCrk%20Orman%20Park%C4%B1/IMG_4631.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Atatürk Orman Parkı",
+      "sha256": "649f10398eee56c043d407ad7dd6b8c680c2619ab601606ed18ce3d938ed5520",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (10).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2810%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "d62592e8523ca100f873177ebb23b9143399f79843d6de196cf75c5c612a0f2b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (100).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28100%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "1d409ffdb3b9a9d82cd21fbfb1947cec95dc65194a46592d0b37b072977b8770",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (101).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28101%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "237b5e13b1ed028870ef71a810169aea174bef24cb049cd243eeb0f38ad1cf77",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (11).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2811%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "21299f051783d07ee79cd48654e3f02622368c3fad0d11b9202380af637243b8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (113).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28113%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "c700bfeb92691f4218d8c9c657ac21ddc3f0e9f599af5d28ad446eba6ac1d580",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (114).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28114%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "ac7ec55805f64d6f67cf3149a97b9fe9551449439880475d93765f35aa17f71c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (116).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28116%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "36c4548a65d805afe67f4e7ed764b568a978bdc4aaf38efa42e1335f256e6719",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (118).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28118%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "111c4fee344d2ffe675d9fa6204391878a36ad0951a4b3d9b4b2907dfffce18b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (122).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28122%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "974406f2ab0ff70ef849780c6360c01e04562b92d292eeedcf4c1fb773b97313",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (13).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2813%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "ce70e5254814cdc87b89437b0dc4d88a54539648b3c34c6f60145c025c9a50f5",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (133).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28133%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "5a18b31e6d6a48c97e6d237bcd7f07eeb05e8a254ae1dfe6fb94cc1fb786d4f8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (134).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28134%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "78e768e0896eeab7bb8394db92366bba3bee201ab2fe1ba6fd09c5bb6668a9fd",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (136).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28136%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "f1369b552157bc7b3860db863b10b83846d71dd35f084eb6ca0a9e01b6a8f689",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (137).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28137%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "f515fd81b56c753f047fb5ff98109000642d0296079512c5d6ebfc6cb905e8b9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (138).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28138%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "e1ec66ffddca008ac64da13dea761ffa543afdb87fa15cbe1b9f9a4b481ee434",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (139).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28139%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "2d3240e4aa82cd206633305c465b7dd26da8de4cabb0fed6d6153446476596b2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (14).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2814%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "9529ea57e211dd84d5df27478e75efdd0a08282b64e81a5b387c02e1b85f1192",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (140).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28140%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "8dcbd12d627745989d144bed6ef06a20f8e3a595c0cee36e0793247aa2f5e86c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (15).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2815%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "61a6dedd3a6d7f2bb4c08c1f48f2e1f9727a997c54088a171066c43ba1034bb8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (16).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2816%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "1aea7c6f96c10c2446edbd44a595c69be17685f83280b40d5fc5ce885421b180",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (170).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28170%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "f6aa7fe523043c1c8425ad66ff7633b59b38470dedee1e924cf08bce6b076e07",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (172).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28172%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "466d87714683ed24f71fe6f2203c6ae682790e6e73b55f0ac26ace1df622c9a7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (173).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28173%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "1d8fab77415cac16d2617fa29e98756ea3927be2f8844edbf31641f2ecee560f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (175).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28175%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "78e6a7cb341b5d74dfc566eca05681ac2f83cd79487347acc65da28fb8e44ad4",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (176).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28176%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "206de806a440c4b63e529bb4bf30ab5e6a4b48a7ca1d04fe474a2e62cf4128a9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (177).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28177%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "16cde4748773e509a9251db51d83c397afa7a7ea7ad14dd51d9b089dd58668a6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (178).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%28178%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "4cf74a30a81039ca2507b28802a1ecb1a5dbdcbaf8b811e8dc95102384b6d519",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (19).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2819%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "672f6c0305063ecba929aed258ec5a35a3083d332b8bf653c5956a8095eef4cf",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (20).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2820%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "8fd6fa5cb21a748a517d1189ac60fb406f2aae797d7ee14ef92e2e818a20acf2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (21).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2821%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "02d33287b0cc0beea46247470aee891cc023b100a58bbcbba933678402898ee3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (22).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2822%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "695f156cf289741c06937e28ba6b26a4e1bcb0a286675fed10271f4ea85bd64a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (23).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2823%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "896b76d77e1fa850c03bf1150747a6cb2783c808672222b2b0c54aa3cc9c486d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (24).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2824%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "4a4091bdd1716a6e2c9f09c0114d9735c9a585afa768667e11c841f5c9772b9e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (25).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2825%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "6f271cffa332d7b0ffca102f4b7087f777601d8a8ff14aea956d8946e2c5e924",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (26).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2826%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "4e205ce1ab0ca0775957d913b64dd4bf5a034fc292458f4223b0095f16a2570e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (27).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2827%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "5f844dc657b276d51bc6b4b6e1d0d0750a7b5e6b1014d72ea62537d2a0aeace8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (28).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2828%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "0b63f9cae67f3a7d67608faf73f85f554f6860acc67174288952a3758e8f45db",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (30).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2830%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "fd5b9036a7dcf8668768990c5fe263b24ecafdd38f2b0ab34214700b81f0d34e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (31).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2831%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "854949d3b985b141b303a83260fdce185fa502df7ddbd61ebd9cbd8fe819eabc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (32).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2832%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "93114a08ca12c6b4c64c5e3241e63e4077d8f247f4c996ea5e30e23efe33b31e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (33).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2833%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "a21b045fabfb53bdf8060afd184c38db0709f38ca081bb6a267f5190f44720d7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (34).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2834%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "efc548bc1d8fc6440405376f455c89a565282b7bccbc038beddc665c32642f26",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (37).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2837%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "68c350f755b14706b2954c28001cd2f69e4c4c258d1a1536a39fa212172b6916",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (39).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2839%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "61e6ae8c826e7d50cf66455e6b5c29252a4f3f5158bccb11c7f571fd46d2d5b2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (44).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2844%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "1ddd17fa08af18162b9f85460589fa94b172844742d68df45f4eb67a4447ae52",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (47).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2847%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "e54f3b89e86f56690e5b673ff974abf7630f026da7a2e6720eb43672d0662f99",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (51).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2851%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "cd4f18a81be767ad2fc6c2e53792aba257489a1456ebd27a5900d59da177900e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (52).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2852%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "3a08438cd07998f328a295179deadf5ff15d45978885f91a55e6b09df6f4ebc4",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (55).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2855%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "312816d8689c35537203cac5ad99e1adde51d08c39a583c728d39d4ee4234591",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (56).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2856%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "8a9d73b3078406da9fbc9353d1da1e5105352d060f354dba89e38f1691ca41d8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (57).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2857%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "3b194358809d82bcc5ee567832e307d097678cf885b72f4aeee0d8e1b245a262",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (58).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2858%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "2e4fac5ec1c38d1909a52a405ed766a878a7a70726c65f553b226f5eeb7e5d7e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (59).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2859%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "1c5b39ea7c899cc489e32bb4e9ab32c448c6b072ceca63cf2d6c2c8b89d3008c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (60).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2860%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "714e4e86b7a1f91adb9744ddb6f1c295868899645c64a64fa82bc539d6ed18b4",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (61).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2861%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "42b8ceb72a3ef16971660292460f8d6198b0c75c523605882dea4541ab6d9b48",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (62).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2862%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "02f04607d98f0cec958cac2ffa2a4ab3310c95a8e5dae3d82a4b9014e2228fb5",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (63).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2863%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "d5a195896a32913202b3d4a8b71c58b4268edc9acc9afc27896b90bdd359a2e8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (65).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2865%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "4e3b0412da020283326fc02fc46013672328bdef13dc7563038d45cb07dd3dac",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (66).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2866%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "5b6175980bb55ddfb4d9002cc88438b673950e4a2cc1725a50f6ef617923eab1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (75).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2875%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "9f848e57cfae9f3a1ed10e932386e7114df9e47149b9d4a31ecbd986a3ed33b6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/Gölcük/gölcük (82).JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/G%C3%B6lc%C3%BCk/g%C3%B6lc%C3%BCk%20%2882%29.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "Gölcük",
+      "sha256": "f71b08d4c808ad6756c87ed31acc41ebb1c52a0da4dcb3e124484d8e1c4d6392",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/IMG_20241124_121008_1760896286755.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/IMG_20241124_121008_1760896286755.jpg",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "",
+      "sha256": "c6796b1c48a636b71bd9471067ecd20799a175fe1502435e36aa7541e47e4019",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/IMG_20250117_025326_830.webp",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/IMG_20250117_025326_830.webp",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "",
+      "sha256": "d437dac091f34afcf2dc9fe0d3988153353a98ab29083661d73ff05fc03a6cbf",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/IMG_20250608_124431.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/IMG_20250608_124431.jpg",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "",
+      "sha256": "d0bcf62c13d017585354caba10c0b9ae6a5e7034498da0420af301f70c6dae81",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bolu/IMG_2981.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bolu/IMG_2981.JPG",
+      "category": "Şehirler",
+      "city": "Bolu",
+      "location": "",
+      "sha256": "023a0ab6dbe77fedb19e2895cd0ac313d84b9481bf5711a24a8e9093fc272450",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_3207.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_3207.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "e3c40b1af614c37ea9073660efe7f195dbaddb5441725d28ba073e1a83c0838f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_3240.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_3240.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d4a6ff0468aefeb2e38036777bb6a910826bf902603eebb62a67f022ad0f2788",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_3248.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_3248.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d1d0bfacded4c811c5ef5a3ffd65852f0630b78e29ebdddd7d17ee37064a7104",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_3249.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_3249.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "84a1bd774795cae415c61355f2a2cea007d41271becf69089a728ead86816371",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_3252.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_3252.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "1230615a7ba71086f4581e95bab43e21063ac5b20ab6108b9af8b6119865b3cf",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5440.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5440.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "89e21c0fd202b8ef0a390f445a8f08348d4a04e674c10c7a5dc9e9f9a1ba3819",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5441.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5441.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "ee3b2260432acced42fae37487b7899dfc796e9e39b07f48f1360a1d46e6255c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5442.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5442.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "7a142ae2937edff85987b2cc57e2c894de8f6f4e26891da6e1b2a1de34ae9896",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5444.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5444.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "cba9e7b7bb53a031c6bd588040409e3fa3bcb00cc80d33a493559ab5d48eb1f3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5445.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5445.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "4033707edc8f77790d4fbe0ca1396d15baf357b5d5c98250a2e70049f6a82d16",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5446.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5446.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "de4937634916a8777ac2124051e1a50424aec1d37aa1eddb096e79248284fec6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5448.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5448.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "7ceaf2e6f3749d5e3f838420a3cfcac2d4f652fad95cff5a05a6c65145162b2f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5449.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5449.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "be5d91a3f9e774bbad94fad46c313bee70d3fe53feaac2713b2da3cce68d34c0",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5450.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5450.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "fd47e322bfd9182480f24b6ad3d4719b5a92733d4a5f4766a5cbc1e8634c8480",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5451.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5451.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "022ddfe298473eb21251fce1a45b9167c6c98408630ee5295b9db29d20fc3200",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5452.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5452.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "5522b2447948002dbb8be4dbc00d210ef68f54304978e9e679f5451ab693cab5",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5455.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5455.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "bb0e23bedb52af02fae134ca3f0e21203629f866306eda26eb8b951a1794aadc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5456.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5456.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "eab5138a73a8921727daecc1c47b1e1449fb205a2933e48c3d790559ff171ddf",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5457.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5457.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d15bf1c84f0a03c396f5ba237b2b05172bd139fe9b76bec5fc755f62642e2c00",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5458.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5458.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "00f0cfb0c4445da20a60268e6f06a1b42aa08570c6ce9a69e7e677ade0d0762e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5459.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5459.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "4d110580446d7e7ea967b312d99d375a385ff4a87b59492c61b2e250234e7eda",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5464.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5464.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "0be10efabd257c91cd98e909a49f2352d746954c29f6f874f1159f6454e07aa2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5468.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5468.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "f1d3ac546abda510dd4ee35edda9558ecebb0331d60caf84120ae3105907654e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5483.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5483.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "7dd68e6d3ae519a2d6d43c5a1e1694f71f3a3556c4ddefeca176e774a8e52c43",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5485.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5485.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "28dd50fce516c1731f9296bbf34bf2c21d137fa48d4a32d7851f9933b12eb56f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5486.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5486.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "ea34551f0edf80a14c23f1f15b9c5624aecddacd8b1cdaa0b7402834ebe7c251",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5490.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5490.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "98c959e6c496a93288849537c7a85195c28a4427dd92e0458ec4725f8e2f0e2c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5491.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5491.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "a49d943a54bd15e11dd2104b541e8df8af666da7ee8cbf7fa3d7575f101e7705",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5551.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5551.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "3314a83eb0484b33b1dadb7bf8c513f612364c3447a9b40512551b24bf000e1e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5552.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5552.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "0f09cececaabdc42fc74bf94413b71939cd07d7cbb23b5fb63d5b08cee374168",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5553.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5553.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "94b3fe5eb5efc9bfbfba647004b720ad5dfdef994c92caca5e5b30197a359bf3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5619.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5619.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "e2041d3e5a3c3502c2a64965cc08ab656037beecf03c0b465835f32caa584ae7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5620.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5620.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "03b13ef239f77ac75c8886515147b0b6f5bb1bb86532f52489addb757392efb8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5623.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5623.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "345c3173141ec9837230cd75c463c478881dc5a8f571cb5230d60965af6153f7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5624.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5624.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "129ee8bf762fbc10a2a6ce852f950b6da38dca7d2138d21d9b677ad76560a4a3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5625.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5625.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "439c140780b12d9b6e1a1af9e1c6f527669628dbd06bd4103407db6ee43741c3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5626.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5626.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "1073fef093d4fab1c9a91a58351152cb75f64f71cb95b743eb7c602f22e9c919",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5627.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5627.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "29c35c7cdba678709566182c3f98ec7fbad8c62eab920cdbc839a4d6ea4460bd",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5628.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5628.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "8e039d2e2a5ad46a4302e14c30ab3cee10931bea6280c4b29d4fb84f51c93869",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5629.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5629.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "8671ef6196c2f386dc1abbe005c6163873feb2625b168e2b77c2feda4395924d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5630.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5630.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "eb249147e941a1f75bbc2eb8a3a54b11c423e5f3367574448647c3f3a74ab73e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5631.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5631.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "a9a5e1a5cd3676f4afe26e3738231ee69144ecba432b5b8d54284a63fb6a709c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5632.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5632.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "3e09863191e7d5b3fe570be7ac61549454b6c214c3ef483473f4762a98217ae9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5633.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5633.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "1c4479959c159b6673fe8981b14b215fae3ea2ef6bbad93181cc5f1f210a91ab",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5634.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5634.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "2ec86267a9dc88759500f414bb2c9c9b2daa2558ce15fcb4748b29edaa96cee2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5635.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5635.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "aea22d6848ba4c4d80567b0765bc62fb471266a1908359039e1989d0a8a39c32",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5636.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5636.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "75b6980ea5a07a200c39474fde4a2e34f33fefb699482df8817d69a359d2aff3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5637.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5637.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "5633fc2b411a257f861cb0d5421b7c1b920c5ca0d027682e27f6ff9d18a90746",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5638.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5638.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "647bb2c8bba336df3dbf578f5050bcb11dc73f87a7900b31bd4650bf187880ae",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5644.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5644.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "ea55601806193e3951711a98fbf8c336b07c23488594fbe40d8edc7780edb880",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5645.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5645.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d76ee4946717736c483a2d77e3844dde08deceafb5af4f81bb01ab9004271014",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5646.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5646.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "20b89ad35f0cf4f758daa2e72e6832a539664a35e5dd45e3c57068de006a97bb",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5648.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5648.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "00f6293bf51b4f1b34ddc8bd214d45fe69a0fd8320ce7121a2401ba0c8c5b7c2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5670.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5670.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "3e8eaa50947cf8d1ec1ede648cf98d2c226940c4b513be6518a9f66f431acc31",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5672.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5672.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "6a4a38bb4177b079246ae5cd7fd6b7537c81c81f286cc457fc1e09cca0ebc1a7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5674.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5674.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "f70e289b8d59ee37be94112f3eb0774a40e5ab8fd0dbc8da71debf9eea8c4489",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5675.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5675.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "663d8cd3f3c3173aba51f84a8f45356803f4554f78e483f1287b11d4fed2f7f1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5676.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5676.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "5de9ff0c515ec7cbb9a7a76902da5398af5f0c7e991f3f05176c88413600b26d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5678.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5678.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "c3adbd36535f5a96130f027b43527304c065de1d654c802e9e7757525b09c3e5",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5679.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5679.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "e8b1783e854feb8bf6c89040ab62592f587da04f38c8c5041158db3c5d6b67c9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5692.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5692.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "5f07850779fdfd03a5bbc7b3cb80ce624f04c29d752d48bd3a76b37ae12b32f1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5693.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5693.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "34ac90fd62dccd01431d36d3e7b9655e946c6f6631ddd74baee108f76c010ba1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5698.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5698.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "484bbb1a5f410c63415fa1c0d32bacde4d9178ab589e89cb4ebf215249d6861b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5699.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5699.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d17243ca63ef29045bdb4b04071686b229f8ee7909d138f76b7b0e13ab2aadd8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5700.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5700.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "ce70195f43c1d728656a8674618b8fa8eeb660d5f0f7934e72efa5b0148d5157",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5701.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5701.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "6d1173240c6762f42e85cf01f58f15643f854280711c7ea3ea38b9a2b566748a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5702.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5702.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "ef47f56665ffaaa57eecba074abdcf3d94d46b191fa86f99c133c9d55c371ed6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5703.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5703.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d89db82fbe8063e554a8a7682826ed75bd07232e1450f6b146bbf1ade95c464a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5706.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5706.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "98c75abdbae48cbed465565c611d82afd13f2608fac1e933875ea7366b6cd688",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5799.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5799.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "feb078eb1f16ac10a7d73094b3b9f331f57639ea4751b1f930471ae2c55609de",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5827.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5827.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "56198ac395a6279246ee5bddf520ce295230e10f57513f4e1f027a2612241b16",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5828.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5828.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "a5fc0fff623d89034a26b4eb6bb0cdbe7a868bfd983c4e402cbb4ac78c56858a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5829.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5829.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "d10531a6f315402d865951f66d5fb99f1bb0fd3719202ac8fdd0157ef2422549",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5830.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5830.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "7c70601f9ae4de26053990aa7ccfbd33ee094a547ccbd4cc5d2c09f1c4e6c6d4",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5831.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5831.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "2a3bbd764e0c57bbfff27f023fc07730a2c0e95273a1929cee36761ce50c7e15",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5832.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5832.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "19ebea258a74fb5a21588bc6500d03dc55a19a87eb60f759aee2998e92affc2f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5834.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5834.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "b2adfbdf341d456cd2801a0f30a02e93a4dd17651c314fac6c2e24c540bc40a3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5835.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5835.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "dbb19e2a3e35b500d6e4116fddffd3ab494a1f2e6201f9b59f00a3394b13c7e7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5836.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5836.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "b926c2742eaafc34659d7be2f35c36d6737dbe6139954fc06004f99736134636",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5837.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5837.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "1f14efd288096d63f4047afc8d5d62a6a94d4bcee38eaf2edbdfbb5cf418b568",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5838.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5838.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "aab1476970b3255918f972e85cefcc289567ebbfb18aa17bd11b8843cc2d9783",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bozcaada/IMG_5839.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bozcaada/IMG_5839.JPG",
+      "category": "Şehirler",
+      "city": "Bozcaada",
+      "location": "",
+      "sha256": "98022055a59f1be903afd07e730069bbbba5d8efbff063359d0b227244b13f21",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5874.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5874.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "f2604a6582791fcac737b0628864c6c8fc862ea23610a0c34df06bf3aadf3b59",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5879.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5879.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "093a6818b0279599d8fe788f17cbf9402e1a23f7e61cb96ec7fe8512549743a1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5880.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5880.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "ed75c73b31653a3b45689ea3e127f64c04f0f0fed5ce791461b0d7beb7994ef4",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5910.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5910.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "dcc0fb441dd8b1679024e90d61297560addc9d2d78107351362620ade68dc494",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5920.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5920.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "a79a88f49e26540f3dd3cfe891f421ede1408552a8443e870cd9c1b0ae4ec747",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5925.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5925.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "6d932e1de9f2fc8237a9c5ebefe7306bab354c1ac8001b2fe70c67ac470e1192",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5926.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5926.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "4d763a3e431c8ad6c0581f482627ffe9632c24fb1542211df4b352a62b753988",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5930.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5930.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "40bd206a429ab2dc6bb83e8321c06eaca9378c8a3eed5314f3bd1f6146c6ee65",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5931.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5931.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "3ebd3956360e0fd8d44b007c503b5fe5251ee2f7bee8416bdbf87d40a9e26f99",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5932.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5932.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "99c25008acf22a0139b261b60b27f9239a0c2e7b13db107816570c15fdbbb41f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5933.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5933.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "d8b8abacd3a80461a0b1fb18031f322cd3fa301439db2478bd5592b4fe51df28",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_5934.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_5934.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "51865fdb2761abf2721361b2f3fda1df341a5a2cef995065cdca0cbc44b0b72d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_6028.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_6028.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "6807e1d852395a9c8390eaca0e8f52cc23cbf27e2d143a6526610f65f1be02a1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_6032.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_6032.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "4d5d7705ad816e19010c738adb24af3dfca60e3355b8dc779ab6806854d7946b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Bursa/Tirilye/IMG_6037.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/Bursa/Tirilye/IMG_6037.JPG",
+      "category": "Şehirler",
+      "city": "Bursa",
+      "location": "Tirilye",
+      "sha256": "848dbe474173eaa0453d21eed17364f3e32043aea705eda09cd3e74c0e7733e7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/1000113086.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/1000113086.jpg",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "f9de3710c5a960ca57d5aad5a1e34f1477e138351b15a04b93b201a41819da4e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3520.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3520.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "f054c3f4b9ce5cde7a7944f9640ca9216cc5645ef4b8451adda134f6fe079e21",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3521.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3521.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "73e3b718c7890cd2d398ba6bade96e85cce0445a2f3410a0d4b4875d44ddcea1",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3571.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3571.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "285f641a8da1f5c257f481cc8d12e3198b600edd6ba217a6deb11e49f8d80fc7",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3572.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3572.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "837b9e8e2fb6a57b24e4cb100e2f4b0d238254472a75a191983d5ab150512dbe",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3573.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3573.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "5e5549e04a1f10685e3b0b0535fe87406b70c0aa31c8918fbcf07336006c2f3d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3576.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3576.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "408e5fddc5d996ac1da93ecca330412c0fd5bb8f2760e5ae5041805fe8dcf8b3",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3592.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3592.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "c98aeefc1d96fdadf7193b31d881e433caa7d9bdbf3e97598c1f11305883afdb",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3739.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3739.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "afc95c5fbe13c7038a850a0eedf4446f1e748ab5dd92b2eb447b0b9c4903c91b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3740.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3740.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "41ff02d8e5622435bb02a74a8c96a4506e34dbf9d3f2df23e2db2115cb5755a6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3743.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3743.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "1e5933a68c4cdfb53616a7edde90514bf1eb29c2af2965db701f7d3854a7279f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3745.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3745.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "11f3920959ff9bfb3aac5636deda29d87a29366686306d1068708b3cc993ee1e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3746.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3746.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "19498d7f767e2b99e1dd7350852d9cc40754fd59c7bd96d5632893f93db3a947",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3748.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3748.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "1185c4763c3ceaa1e3d7d82e6e68c662c440b7ad55a98cf9927d285b7dc56a1c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3749.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3749.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "d1ea2d554da4cde06cd81532fa1dc5ee60cf36646e3f04df1c4cf42a51fd7086",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3751.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3751.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "ae120ef157d92519d1f040f3c28d6a996ed05300ab3ecfa6f63e9aeff08e432e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3752.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3752.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "cf42062c3df44432f4423044a021db7173151da071be338b5df5fda259fe239b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3755.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3755.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "f4ac041e95f5d26859cb61ef9ea9a5eda708a4b249e1042a72e20b969b450f3e",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3756.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3756.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "b9c624f3524124e53c8b7dcfc52717931211dae0f94c0044a899a805c2a3c6be",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3759.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3759.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "84bc5f681ce6bd498a59cae219949aa048bbc9ce6901ef4184f2c13ad34439d6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3768.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3768.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "cecaebc50dc4a1dae3c57b72605ff0fa3bcae12929d3ca91a86d9aa88ad21db8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3770.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3770.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "9cff866c66dff8e487b45f53730ba393533cdebcc7d5e9df836bffd35d20070f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3893.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3893.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "5d93caa00acb48b7cb37063b0baaffd1eddb5d2a672d0cbd225e55bc709f49b8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3895.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3895.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "c669c0b82948ed8a8c3c384c13eabde1e5757c76573ab6e01188b80838b85f70",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3896.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3896.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "2fd6acbdebe6b3a660616bd6e319fb0bc0eadbcf936a2173b3d644cdc14a372a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3900.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3900.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "d43a6d9bbf5fb0f85b001e1dde8511750f1210e88d00b7a4c7af15dcee8daa78",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3901.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3901.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "d7233b8a3ad1807964b61836f2297ca17a949055c268bc47cd72ed433c4ea138",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3902.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3902.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "0c16f7b1b0a6bb0a1bab9ef5ac091a6d1257d4796ce2ddf83e17fa278335d90c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_3913.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_3913.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "3e7c5e04e397f19f0860a115583c77bb33d053bad052bcb321afbd57a3998345",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_5167.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_5167.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "efc622a7b3e4a9364b0cc3e3d4c93fefbfa7e636fe12c0ef47847dbb7d420fe9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_5168.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_5168.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "d2dfc415ac8d36890011ccc587867f5c956f8e00400e83968a7a3ea015c2dc8d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_5178.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_5178.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "be2f7733dfe04980e45d510d70acb73440a4cd974d7572a9a845c8ad2bc51aec",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/IMG_5185.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/IMG_5185.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "",
+      "sha256": "a57c9d1e3d0a9d8976ef93588044e8afc9fd51c1c1ef7153e9252b27f48bf6c6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3786.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3786.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "43a674d85f7095e858c8d7bb9fee0fb4fa97b36bce554f5a9d8c606054492f78",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3789.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3789.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "1280d9bd860ba86b46d049ec2ffd9f78df5156d3ae8707257cdce54106b85e32",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3792.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3792.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "11ae81c6f67370c6681ae6466c3e209e928940842f9de8d5d4f90f1d1536b345",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3795.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3795.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "1469c2cb0112372cffa4761de7cf94bc611817c4fb38de4750e707d4f98b8ff5",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3832.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3832.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "b7be029ae6a69715fe4fbe57bb9e9ddd1f3ece2ea5e4ccd06b4e630a3a55526d",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3834.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3834.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "b3a5413099ec6a6a336570c586042205cbd772aca232a3e17d7ec01c3e3af1cc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3835.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3835.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "180d55266b49f0a2cff9413589d5ce49bad23549f3792d2c40283418203a7d5c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3836.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3836.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "a9ec7d33057604e52d380eef99f6812655e3a27bec93602872f58519a8405683",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/IMG_3837.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/IMG_3837.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "5a2b76b8e0aa8d38f871c5f069143b858d5e265e5104e9000e08e734cd0effdd",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/kaleköy3✨.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/kalek%C3%B6y3%E2%9C%A8.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "b66a47190e07a2d924a2010a9030ac4905fc01b04dab02ce4d52870ea6a88d0a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Kaleköy/kaleköy4.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Kalek%C3%B6y/kalek%C3%B6y4.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Kaleköy",
+      "sha256": "97b983c85a766f429553ed22e31164814a20fe053e0d560cacf7377021629f58",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Uğurlu/IMG_4834.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/U%C4%9Furlu/IMG_4834.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Uğurlu",
+      "sha256": "ec8b4ffb0beb1f50dda2d1b04638c59792d8494847f2aa48618ed82cd27a34b8",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Uğurlu/IMG_4836.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/U%C4%9Furlu/IMG_4836.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Uğurlu",
+      "sha256": "4018fcd1cf4d9f09db94b8de03cb4911eb3a68d3c5774215bec1acbe90d8248f",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Uğurlu/IMG_4857.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/U%C4%9Furlu/IMG_4857.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Uğurlu",
+      "sha256": "218701f1091a6ab623c18b75e8163f3ed92aa1ac1c964ebb806f3469fe4d243b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Uğurlu/IMG_4859.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/U%C4%9Furlu/IMG_4859.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Uğurlu",
+      "sha256": "0232c51b98ee4a8a385228e07ff32c3bae571b30aeeb76d5c6e5ae1ecd8bfc80",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Uğurlu/IMG_4860.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/U%C4%9Furlu/IMG_4860.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Uğurlu",
+      "sha256": "7f610115f2dbe1655246b605f77301270418dca10c317be81e147c6137189cfc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Zeytinliköy/imroz.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Zeytinlik%C3%B6y/imroz.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Zeytinliköy",
+      "sha256": "4fd511bf2d25ba42462a687fe93a2794aa821962ad8f9c9534acd0d16cb57b3a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Zeytinliköy/taş kaldırım ydk.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Zeytinlik%C3%B6y/ta%C5%9F%20kald%C4%B1r%C4%B1m%20ydk.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Zeytinliköy",
+      "sha256": "665c5470a4aa799b6813461ec628ba0b2f89979f99475e8d10e6e8427915482c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Zeytinliköy/zeytinli köy2.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Zeytinlik%C3%B6y/zeytinli%20k%C3%B6y2.jpg",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Zeytinliköy",
+      "sha256": "99ea0c1bf9cf4585532dc5eda2e16995341e8df7042f5137ff6902ab54d8b10b",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Gökçeada/Zeytinliköy/zeytinliköy5.JPG",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/G%C3%B6k%C3%A7eada/Zeytinlik%C3%B6y/zeytinlik%C3%B6y5.JPG",
+      "category": "Şehirler",
+      "city": "Gökçeada",
+      "location": "Zeytinliköy",
+      "sha256": "960270b59807206bf8d16fac2ae67746c93f93e9e353529c2732b1f42a47dd15",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/canakkale_saat_kulesı.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/canakkale_saat_kules%C4%B1.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "",
+      "sha256": "1f8b1e9d87ddb3ac6504c212d006688846d9118449c3c0390b5dad7db4b70ffc",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/1000111439.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/1000111439.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "6ed2dc7930e5978ac7aae513a1bfcc4efb0db264eb6db2e587fdc791333252a9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/1000111446.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/1000111446.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "0ed3f7fddfe4949e6952f46b3e83d3296496056d2c4c198cd9a8c4aad106600a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/1000111457.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/1000111457.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "2e34d862c06bcd33635c93728e3a100e8f39634edc2ac7d48c24593263a5afd6",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kale_kilitbahir.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kale_kilitbahir.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "fc5bf238876719d926fbd83441774330014db4417e9cbe7b172891aaa19cc98c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kale_kilitbahir1.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kale_kilitbahir1.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "6ed2dc7930e5978ac7aae513a1bfcc4efb0db264eb6db2e587fdc791333252a9",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kale_kilitbahir2.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kale_kilitbahir2.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "df9441c2ab410b4007ce1778cf4165a860583189d097331c160b049e0809aba2",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kale_kilitbahir3.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kale_kilitbahir3.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "adeed024745dfeb8269fab37b6c75b2f16032be5c6749179c5eb5116922073db",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kilitbahir sokak.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kilitbahir%20sokak.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "1b0cad7b22d73d32083f76c932ef8e205699748bd074d58c7ae5e03e30aa250c",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/Kilitbahir/kilitbahirkale5.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/Kilitbahir/kilitbahirkale5.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "Kilitbahir",
+      "sha256": "0ed3f7fddfe4949e6952f46b3e83d3296496056d2c4c198cd9a8c4aad106600a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    },
+    {
+      "path": "images/ŞEHİRLER/Çanakkale/çanakkale_köprüsü.jpg",
+      "imageUrl": "https://arsiv.mavikadraj.com.tr/images/%C5%9EEH%C4%B0RLER/%C3%87anakkale/%C3%A7anakkale_k%C3%B6pr%C3%BCs%C3%BC.jpg",
+      "category": "Şehirler",
+      "city": "Çanakkale",
+      "location": "",
+      "sha256": "1770abfdf01f0e5d9f566348f0e7e8913789a30c96de63242387e8c1899f9d3a",
+      "exif": {
+        "GPSLatitudeRef": null,
+        "GPSLatitude": null,
+        "GPSLongitudeRef": null,
+        "GPSLongitude": null
+      },
+      "status": "missingGps",
+      "exifPresent": false
+    }
+  ]
+}

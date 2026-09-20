@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/harita/map.css">
   <script src="/map-config.js" defer></script>
+  <script src="/harita/city-photos.js" defer></script>
+  <script src="/harita/photo-layer.js" defer></script>
   <script src="/harita/photo-map.js" defer></script>
 </head>
 <body class="map-page">
@@ -33,7 +35,7 @@
         <div class="map-future-controls" aria-label="Yakında eklenecek harita araçları">
           <button type="button" disabled>Konum ara <span>· Yakında</span></button>
           <button type="button" disabled>Kategoriler <span>· Yakında</span></button>
-          <p>Konumlandırılmış fotoğraflar yakında burada.</p>
+          <p id="map-photo-count" role="status">Fotoğraf konumları kontrol ediliyor…</p>
         </div>
       </div>
       <div class="map-stage">

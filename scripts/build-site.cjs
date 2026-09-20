@@ -21,6 +21,6 @@ for(const name of ['index.html','styles.css','app.js','gallery-model.js','hero-s
 fs.writeFileSync(path.join(out,'gallery-data.js'),'window.GALLERY_IMAGES = '+JSON.stringify(publicItems)+';\n');
 require('./seo-site.cjs')(root,out,publicItems);
 fs.mkdirSync(path.join(out,'harita'),{recursive:true});
-for(const name of ['index.html','map.css','photo-map.js'])fs.copyFileSync(path.join(root,'harita',name),path.join(out,'harita',name));
+for(const name of ['index.html','map.css','photo-map.js','photo-layer.js','city-photos.js'])fs.copyFileSync(path.join(root,'harita',name),path.join(out,'harita',name));
 fs.writeFileSync(path.join(out,'map-config.js'),require('./map-config.cjs')());
 console.log(publicItems.length+' genel görsel; özel klasörler statik çıktıya alınmadı.');

@@ -9,7 +9,7 @@ http.createServer(async(req,res)=>{
   if(handlers[url.pathname]){let body='';for await(const chunk of req){body+=chunk;if(body.length>4096)return res.status(413).json({error:'Too large'});}req.body=body?JSON.parse(body):{};return await handlers[url.pathname](req,res);}
   if(url.pathname==='/map-config.js'){res.setHeader('Content-Type','text/javascript; charset=utf-8');res.setHeader('Cache-Control','no-store');return res.end(require('./map-config.cjs')());}
   const rel=/^\/harita\/?$/.test(url.pathname)?'harita/index.html':decodeURIComponent(url.pathname).replace(/^\//,'')||'index.html';
-  const allowed=['index.html','styles.css','app.js','gallery-model.js','gallery-data.js','hero-slider.js','harita/index.html','harita/map.css','harita/photo-map.js'];
+  const allowed=['index.html','styles.css','app.js','gallery-model.js','gallery-data.js','hero-slider.js','harita/index.html','harita/map.css','harita/photo-map.js','harita/photo-layer.js','harita/city-photos.js'];
   if(!allowed.includes(rel)&&!/^images\/(KONULAR|ŞEHİRLER)\//.test(rel)&&!/^thumbnails\/(KONULAR|ŞEHİRLER)\//.test(rel))return res.status(404).json({error:'Not found'});
   const file=path.resolve(root,rel);if(!file.startsWith(root+path.sep)||!fs.existsSync(file)||!fs.statSync(file).isFile())return res.status(404).json({error:'Not found'});
   res.setHeader('Content-Type',mime[path.extname(file).toLowerCase()]||'application/octet-stream');fs.createReadStream(file).pipe(res);

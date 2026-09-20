@@ -2,7 +2,7 @@
   'use strict';
 
   /**
-   * Future EXIF marker contract (no photo data is loaded in this phase).
+   * Validated city EXIF marker contract.
    * @typedef {Object} MapPhoto
    * @property {string} id
    * @property {string} imageUrl
@@ -16,9 +16,7 @@
    * @property {true} exactLocation
    */
 
-  // The map owns only the viewport. A future marker/clustering layer can receive
-  // this instance and MapPhoto[] without recreating the map on filter changes.
-  // That layer will own InfoWindows and directions using each photo's exact GPS.
+  // The viewport remains separate from the photo/grouping layer.
   function createPhotoMap(element) {
     const width = element.clientWidth;
     return new google.maps.Map(element, {
@@ -52,8 +50,15 @@
     if (failed) return;
     clearTimeout(timer);
     try {
-      createPhotoMap(canvas);
+      const map = createPhotoMap(canvas);
       status.hidden = true;
+      const summary = document.getElementById('map-photo-count');
+      try {
+        if (!Array.isArray(window.MAVI_MAP_PHOTOS) || !window.PhotoMapLayer) throw new Error('Missing photo data');
+        window.PhotoMapLayer.mount(map, window.MAVI_MAP_PHOTOS, summary);
+      } catch {
+        summary.textContent = 'Fotoğraf konumları yüklenemedi. Haritayı kullanmaya devam edebilirsiniz.';
+      }
     } catch {
       showError('Harita açılamadı', 'Google Maps başlatılamadı. Lütfen sayfayı yeniden yükleyin.');
     }

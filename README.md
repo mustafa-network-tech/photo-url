@@ -2,13 +2,23 @@
 
 ## Fotoğraf Haritası (/harita)
 
-`/harita`, mevcut statik HTML/CSS/JavaScript mimarisini kullanır. Google Maps yalnızca bu sayfada, resmi async script yükleme yöntemiyle açılır. Ek paket, fotoğraf verisi, marker, EXIF taraması veya geocoding yoktur. Türkiye viewport merkezi 39,35'tir; fotoğraf konumu değildir. Konum arama ve kategoriler açıkça pasif / yakında durumundadır; fotoğraf sayısı gösterilmez.
+`/harita`, mevcut statik HTML/CSS/JavaScript mimarisini kullanır. Google Maps yalnızca bu sayfada, resmi async script yükleme yöntemiyle açılır. Türkiye viewport merkezi 39,35'tir; fotoğraf konumu değildir. Konum arama ve kategoriler pasiftir. Fotoğraf katmanı yalnızca ŞEHİRLER dosyalarının doğrulanmış EXIF GPS verisini kabul eder; geocoding veya koordinat tahmini yapılmaz.
 
 Vercel → Settings → Environment Variables bölümünde **PUBLIC_GOOGLE_MAPS_API_KEY** ekleyin ve yeniden deploy edin. Build bu tek public değeri `.site/map-config.js` dosyasına yazar; diğer ortam değişkenlerini dışarı aktarmaz. Yerel geliştirmede aynı değişkeni kabuk ortamında tanımlayıp `npm run dev` çalıştırın. `.env` otomatik okunmaz. Anahtar yoksa açıklayıcı yapılandırma mesajı gösterilir ve Google'a istek yapılmaz.
 
 Google Cloud projesinde faturalandırma yapılandırılmalı ve yalnızca **Maps JavaScript API** etkinleştirilmelidir. Anahtarda Application restrictions → Websites (HTTP referrers) altında `https://arsiv.mavikadraj.com.tr/*` tanımlayın. API restrictions → Restrict key altında yalnızca Maps JavaScript API seçin. Yerel geliştirme için tercihen ayrı anahtarda `http://localhost:8767/*`, `http://127.0.0.1:8767/*` ve production çıktı testi için `http://127.0.0.1:8768/*` kullanın. Vercel preview gerekiyorsa yalnızca kendi preview alan adınızı ekleyin; genel `*.vercel.app` izni vermeyin. Tarayıcı anahtarı görünürdür; koruma domain/API kısıtlarıyla sağlanır. Kota ve bütçe uyarılarını Google Cloud'da yapılandırın.
 
-`harita/photo-map.js` içindeki `createPhotoMap` yalnızca harita viewport'unu oluşturur ve Google Map örneğini döndürür. Gelecek aşamada ayrı marker katmanı bu örneği ve belgelenmiş `MapPhoto[]` modelini alabilir; clustering ve InfoWindow yaşam döngüsünü yönetebilir. Yol tarifi hedefi viewport merkezi değil, her fotoğrafın gerçek EXIF latitude/longitude değeri olmalıdır. Bu aşamada marker katmanı kurulmaz.
+`harita/photo-map.js` viewport'u, `harita/photo-layer.js` fotoğraf noktalarını yönetir. Google Maps Data katmanında 48 piksellik dünya koordinatı hücreleriyle hafif gruplama yapılır; yakınlaşınca noktalar ayrılır, aynı koordinattaki fotoğraflar popup içindeki Önceki/Sonraki ile erişilebilir kalır. Hücre sınırlarına yakın noktalar ayrı gruplarda olabilir. Görsel yalnızca popup açıldığında yüklenir; mevcut thumbnail tercih edilir. Ayrı fotoğraf detay route'u olmadığından Fotoğrafı Aç mevcut orijinal public görsel URL'sini kullanır. Buraya Git, seçilen fotoğrafın gerçek GPS değerlerinden `https://www.google.com/maps/dir/?api=1&destination=LAT,LNG` üretir. Yeni API/paket/map ID gerekmez.
+
+### ŞEHİRLER GPS envanteri
+
+Mevcut fiziksel dosya sayısı **237**, geçerli GPS **0**, GPS olmayan **237**, geçersiz/okunamayan GPS **0**, fotoğraf/nokta sayısı **0**. Bu dosyaların tamamında EXIF kaydı yoktur. GPS içeren orijinaller sağlanmadan gerçek çekim noktaları eklenemez. Önceden silinmiş `Bolu/Atatürk Orman Parkı/IMG_4597.JPG` fiziksel envantere dahil değildir; dosya geri getirilmedi veya değiştirilmedi.
+
+`python scripts/extract-city-gps.py` yalnızca `images/ŞEHİRLER/` içindeki dosyaları okur. Yerelde mevcut Pillow 12.3.0 kullanıldı; Vercel build'ine Python bağımlılığı eklenmedi. GPSInfo IFD (34853) içindeki GPSLatitude (2), GPSLatitudeRef (1), GPSLongitude (4), GPSLongitudeRef (3) okunur. DMS ve yarımküre işaretleri doğrulanır; eksik referanslar, aralık dışı değerler, okunamayan kayıtlar ve şüpheli 0,0 atlanır. EXIF veya görsel dosyalarına yazılmaz.
+
+Dosya bazında yollar, public URL'ler, klasör bilgisi, ham GPS alanları ve SHA-256 özetleri `reports/city-gps-inventory.json` içinde tutulur; bu rapor yayın çıktısına kopyalanmaz. Harita veri seti `harita/city-photos.js` içindedir ve şu anda boş dizidir. Dosyalar değiştiğinde çıkarıcıyı tekrar çalıştırıp envanterle veri setini birlikte commit edin. `python scripts/extract-city-gps.py --check` kaynakları tekrar okuyarak veri setini ve dosya özetlerini doğrular.
+
+GPS dönüşümü testleri: `python -B scripts/verify-city-gps.py`. Katman/popup/yol tarifi testleri: `node scripts/verify-photo-layer.cjs`. Test koordinatları yalnızca izole testlerde kullanılır; haritaya yayınlanmaz. Gerçek GPS kaydı bulunmadığından gerçek fotoğraf/marker örneklemesi yapılamadı; popup ve Google nesneleri testlerde taklit edildi.
 
 Kontrol: `npm run build`, ardından `node scripts/serve-production.cjs`; ayrı terminalde `node scripts/verify-map.cjs`, `node scripts/verify-seo.cjs` ve `node scripts/verify-category-navigation.cjs`. Harita testi Google API'yi taklit ederek hata durumlarını kontrol eder; gerçek API anahtarıyla tarayıcıdaki masaüstü/mobil ve Google yükleme kontrolünün yerine geçmez.
 
