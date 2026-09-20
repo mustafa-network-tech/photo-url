@@ -1,5 +1,19 @@
 # Fotoğraf Arşivim
 
+## Fotoğraf Haritası (/harita)
+
+`/harita`, mevcut statik HTML/CSS/JavaScript mimarisini kullanır. Google Maps yalnızca bu sayfada, resmi async script yükleme yöntemiyle açılır. Ek paket, fotoğraf verisi, marker, EXIF taraması veya geocoding yoktur. Türkiye viewport merkezi 39,35'tir; fotoğraf konumu değildir. Konum arama ve kategoriler açıkça pasif / yakında durumundadır; fotoğraf sayısı gösterilmez.
+
+Vercel → Settings → Environment Variables bölümünde **PUBLIC_GOOGLE_MAPS_API_KEY** ekleyin ve yeniden deploy edin. Build bu tek public değeri `.site/map-config.js` dosyasına yazar; diğer ortam değişkenlerini dışarı aktarmaz. Yerel geliştirmede aynı değişkeni kabuk ortamında tanımlayıp `npm run dev` çalıştırın. `.env` otomatik okunmaz. Anahtar yoksa açıklayıcı yapılandırma mesajı gösterilir ve Google'a istek yapılmaz.
+
+Google Cloud projesinde faturalandırma yapılandırılmalı ve yalnızca **Maps JavaScript API** etkinleştirilmelidir. Anahtarda Application restrictions → Websites (HTTP referrers) altında `https://arsiv.mavikadraj.com.tr/*` tanımlayın. API restrictions → Restrict key altında yalnızca Maps JavaScript API seçin. Yerel geliştirme için tercihen ayrı anahtarda `http://localhost:8767/*`, `http://127.0.0.1:8767/*` ve production çıktı testi için `http://127.0.0.1:8768/*` kullanın. Vercel preview gerekiyorsa yalnızca kendi preview alan adınızı ekleyin; genel `*.vercel.app` izni vermeyin. Tarayıcı anahtarı görünürdür; koruma domain/API kısıtlarıyla sağlanır. Kota ve bütçe uyarılarını Google Cloud'da yapılandırın.
+
+`harita/photo-map.js` içindeki `createPhotoMap` yalnızca harita viewport'unu oluşturur ve Google Map örneğini döndürür. Gelecek aşamada ayrı marker katmanı bu örneği ve belgelenmiş `MapPhoto[]` modelini alabilir; clustering ve InfoWindow yaşam döngüsünü yönetebilir. Yol tarifi hedefi viewport merkezi değil, her fotoğrafın gerçek EXIF latitude/longitude değeri olmalıdır. Bu aşamada marker katmanı kurulmaz.
+
+Kontrol: `npm run build`, ardından `node scripts/serve-production.cjs`; ayrı terminalde `node scripts/verify-map.cjs`, `node scripts/verify-seo.cjs` ve `node scripts/verify-category-navigation.cjs`. Harita testi Google API'yi taklit ederek hata durumlarını kontrol eder; gerçek API anahtarıyla tarayıcıdaki masaüstü/mobil ve Google yükleme kontrolünün yerine geçmez.
+
+Resmi kaynaklar: [Google Maps yükleme](https://developers.google.com/maps/documentation/javascript/load-maps-js-api), [API güvenliği](https://developers.google.com/maps/api-security-best-practices).
+
 ## SEO production çıktısını kontrol etme
 
 `npm run build` ana sayfayı ve gerçek kategorilerin `/kategori/<slug>/` sayfalarını ilk HTML içeriğiyle `.site` altında üretir. Canonical/OG domaini `https://arsiv.mavikadraj.com.tr` adresidir. `sitemap.xml`, kategori sayfalarına ilişkilendirilen Google image extension girdilerini içerir; eksik dosyalar kaynak kayıtlardan silinmez ve sitemap'e alınmaz. Slug çakışması build'i durdurur.

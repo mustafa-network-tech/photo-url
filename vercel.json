@@ -14,6 +14,8 @@
     {"source":"/tr/kategori/:slug/","destination":"/tr/?category=:slug","statusCode":301}
   ],
   "rewrites": [
+    {"source":"/harita","destination":"/harita/index.html"},
+    {"source":"/harita/","destination":"/harita/index.html"},
     {"source":"/tr","destination":"/index.html"},
     {"source":"/tr/","destination":"/index.html"}
   ]

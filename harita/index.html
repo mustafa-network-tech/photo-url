@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fotoğraf Haritası | Mavi Kadraj</title>
+  <meta name="description" content="Mavi Kadraj objektifinden Türkiye'nin farklı noktaları. Fotoğraf Haritası ile çekim noktalarını keşfedin.">
+  <link rel="canonical" href="https://arsiv.mavikadraj.com.tr/harita">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/harita/map.css">
+  <script src="/map-config.js" defer></script>
+  <script src="/harita/photo-map.js" defer></script>
+</head>
+<body class="map-page">
+  <header class="map-header">
+    <nav class="nav wrap" aria-label="Ana menü">
+      <a class="brand" href="/" aria-label="Galeri ana sayfası"><span class="brand-mark" aria-hidden="true">◉</span><span>Mavi Kadraj</span></a>
+      <a class="nav-map-link" href="/harita" aria-current="page">Fotoğraf Haritası</a>
+    </nav>
+  </header>
+  <main class="map-main">
+    <section class="map-intro wrap" aria-labelledby="map-title">
+      <a class="archive-link" href="/">← Fotoğraf Arşivi</a>
+      <h1 id="map-title">Fotoğraf Haritası</h1>
+      <p>Mavi Kadraj objektifinden Türkiye'nin farklı noktaları.</p>
+    </section>
+    <section class="map-section" aria-labelledby="map-title" aria-describedby="map-description">
+      <div class="map-toolbar">
+        <p id="map-description">Fotoğrafların çekildiği noktaları harita üzerinde keşfedin.</p>
+        <div class="map-future-controls" aria-label="Yakında eklenecek harita araçları">
+          <button type="button" disabled>Konum ara <span>· Yakında</span></button>
+          <button type="button" disabled>Kategoriler <span>· Yakında</span></button>
+          <p>Konumlandırılmış fotoğraflar yakında burada.</p>
+        </div>
+      </div>
+      <div class="map-stage">
+        <div id="photo-map" aria-label="Türkiye fotoğraf haritası"></div>
+        <div id="map-status" class="map-status" role="status" aria-live="polite">
+          <strong id="map-status-title">Harita hazırlanıyor</strong>
+          <p id="map-status-detail">Google Maps yükleniyor…</p>
+        </div>
+        <noscript><p class="map-noscript">Haritayı kullanmak için JavaScript'i etkinleştirin.</p></noscript>
+      </div>
+    </section>
+  </main>
+  <footer><div class="wrap footer-inner"><div class="footer-brand"><p>Mavi Kadraj <span>—</span> Fotoğraf Arşivi.</p><p class="footer-credit">Product by <strong>MK DIGITAL SYSTEMS</strong></p></div><div class="footer-links"><a href="/">Fotoğraf Arşivi</a><a href="https://www.mavikadraj.com.tr/">Mavi Kadraj Ana Sayfa</a></div></div></footer>
+</body>
+</html>
