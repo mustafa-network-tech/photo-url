@@ -7,6 +7,9 @@
     }
   },
   "framework": null,
+  "headers": [
+    {"source":"/data/:path*","headers":[{"key":"Access-Control-Allow-Origin","value":"*"},{"key":"Cache-Control","value":"public, max-age=300, s-maxage=3600, stale-while-revalidate=86400"}]}
+  ],
   "redirects": [
     {"source":"/kategori/:slug","destination":"/?category=:slug","statusCode":301},
     {"source":"/kategori/:slug/","destination":"/?category=:slug","statusCode":301},

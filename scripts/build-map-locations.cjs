@@ -90,7 +90,10 @@ function build(){
 
 const dataset=photos=>'// scripts/build-map-locations.cjs ile üretilir; elle düzenlemeyin. Kurallar: harita/location-rules.json\nwindow.MAVI_MAP_PHOTOS = '+JSON.stringify(photos,null,1).replace(/</g,'\\u003c')+';\n';
 
-module.exports={build,dataset,fold};
+// Public data feed for other sites (mavikadraj.com.tr/harita). URLs stay relative to the archive origin.
+const json=(photos,summary)=>JSON.stringify({version:1,source:'https://arsiv.mavikadraj.com.tr',summary:{mapped:summary.mapped,locations:summary.locations,exact:summary.exact,approximate:summary.approximate,city:summary.city},photos})+'\n';
+
+module.exports={build,dataset,json,fold};
 
 if(require.main===module){
  const {photos,summary,unresolvedLocations}=build();
