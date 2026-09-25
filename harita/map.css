@@ -34,3 +34,12 @@
   .map-future-controls p { width: 100%; margin: 0; }
   .map-stage { min-height: max(420px, 60svh); border-inline: 0; }
 }
+.map-legend { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 0 0 14px; padding: 0; list-style: none; color: var(--muted); font-size: .8rem; }
+.map-legend li { display: flex; align-items: center; gap: 8px; }
+.map-legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid var(--card); box-shadow: 0 0 0 1px var(--line); }
+.map-legend-dot--approximate { background: #4f7d63; }
+.map-legend-dot--city { background: var(--accent); }
+.map-photo-popup .map-photo-count { margin: 10px 0 0; color: var(--green); font-weight: 600; }
+.map-photo-popup .map-photo-area, .map-photo-popup .map-photo-category, .map-photo-popup .map-photo-date { margin: 2px 0; }
+.map-photo-popup .map-photo-accuracy { display: inline-block; margin: 8px 0 0; padding: 3px 8px; border-radius: 999px; background: var(--green-soft); color: var(--green); font-size: .72rem; font-weight: 600; }
+.map-photo-popup .map-photo-accuracy--city { background: #f4e2d9; color: #8a4127; }

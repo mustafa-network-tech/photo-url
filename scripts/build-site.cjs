@@ -21,6 +21,10 @@ for(const name of ['index.html','styles.css','app.js','gallery-model.js','hero-s
 fs.writeFileSync(path.join(out,'gallery-data.js'),'window.GALLERY_IMAGES = '+JSON.stringify(publicItems)+';\n');
 require('./seo-site.cjs')(root,out,publicItems);
 fs.mkdirSync(path.join(out,'harita'),{recursive:true});
-for(const name of ['index.html','map.css','photo-map.js','photo-layer.js','city-photos.js'])fs.copyFileSync(path.join(root,'harita',name),path.join(out,'harita',name));
+for(const name of ['index.html','map.css','photo-map.js','photo-layer.js'])fs.copyFileSync(path.join(root,'harita',name),path.join(out,'harita',name));
+// Map locations are rebuilt from the same public files, so newly added photos are never stale.
+const mapLocations=require('./build-map-locations.cjs'),mapData=mapLocations.build();
+fs.writeFileSync(path.join(out,'harita','map-photos.js'),mapLocations.dataset(mapData.photos));
 fs.writeFileSync(path.join(out,'map-config.js'),require('./map-config.cjs')());
 console.log(publicItems.length+' genel görsel; özel klasörler statik çıktıya alınmadı.');
+console.log(mapData.summary.mapped+' fotoğraf haritada, '+mapData.summary.unresolved+' fotoğrafın konumu belirlenemedi.');

@@ -68,4 +68,5 @@ function Write-Gallery($filename,$variable,$items) {
 Write-Gallery "gallery-data.js" "GALLERY_IMAGES" $publicItems
 Write-Gallery "gallery-private-data.js" "PRIVATE_GALLERY_IMAGES" $privateItems
 Write-Host "$($publicItems.Count) genel, $($privateItems.Count) bağlantıyla erişilen görsel güncellendi."
-
+& node (Join-Path $PSScriptRoot "build-map-locations.cjs")
+if ($LASTEXITCODE -ne 0) { throw "Harita konumları üretilemedi." }

@@ -27,7 +27,7 @@ function boot(apiKey, width = 1200, throws = false) {
   };
   vm.createContext(context);
   vm.runInContext(config({ PUBLIC_GOOGLE_MAPS_API_KEY: apiKey, ARCHIVE_PASSWORD: 'never-export-this' }), context);
-  vm.runInContext(fs.readFileSync('harita/city-photos.js', 'utf8'), context);
+  vm.runInContext(fs.readFileSync('harita/map-photos.js', 'utf8'), context);
   vm.runInContext(fs.readFileSync('harita/photo-layer.js', 'utf8'), context);
   vm.runInContext(source, context);
   return { context, nodes, scripts, maps, expire: () => timeout() };
@@ -51,7 +51,7 @@ function boot(apiKey, width = 1200, throws = false) {
     assert.equal(app.maps[0].options.center.lat, 39);
     assert.equal(app.maps[0].options.center.lng, 35);
     assert.equal(app.nodes.get('map-status').hidden, true);
-    assert(app.nodes.get('map-photo-count').textContent.includes('EXIF GPS'));
+    assert(app.nodes.get('map-photo-count').textContent.includes('Fotoğraf'));
     app.context.window.gm_authFailure();
     assert.equal(app.nodes.get('map-status').hidden, false);
     assert.equal(app.nodes.get('photo-map').hidden, true);

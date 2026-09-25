@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/harita/map.css">
   <script src="/map-config.js" defer></script>
-  <script src="/harita/city-photos.js" defer></script>
+  <script src="/harita/map-photos.js" defer></script>
   <script src="/harita/photo-layer.js" defer></script>
   <script src="/harita/photo-map.js" defer></script>
 </head>
@@ -31,7 +31,11 @@
     </section>
     <section class="map-section" aria-labelledby="map-title" aria-describedby="map-description">
       <div class="map-toolbar">
-        <p id="map-description">Fotoğrafların çekildiği noktaları harita üzerinde keşfedin.</p>
+        <p id="map-description">Fotoğrafların çekildiği yerleri harita üzerinde keşfedin. Konumu bilinmeyen fotoğraflar haritada gösterilmez.</p>
+        <ul class="map-legend" aria-label="Konum kesinliği">
+          <li><span class="map-legend-dot map-legend-dot--approximate" aria-hidden="true"></span>Yaklaşık konum (yer adı)</li>
+          <li><span class="map-legend-dot map-legend-dot--city" aria-hidden="true"></span>Şehir / ilçe düzeyi</li>
+        </ul>
         <div class="map-future-controls" aria-label="Yakında eklenecek harita araçları">
           <button type="button" disabled>Konum ara <span>· Yakında</span></button>
           <button type="button" disabled>Kategoriler <span>· Yakında</span></button>

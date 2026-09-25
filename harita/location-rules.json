@@ -1,0 +1,52 @@
+{
+  "_note": "Elle düzenlenen konum sözlüğü. Koordinatlar fotoğrafın çekim noktası değil, yerin bilinen yaklaşık merkezidir. accuracy: approximate = belirli yer, city = şehir/ilçe/il düzeyi. Öncelik: EXIF GPS > ŞEHİRLER klasörü > dosya adı > manual klasör kuralı. Eşleşmeyen fotoğraf haritaya eklenmez.",
+  "places": {
+    "bolu": { "placeName": "Bolu", "city": "Bolu", "district": "Merkez", "latitude": 40.7350, "longitude": 31.6061, "accuracy": "city" },
+    "bolu-ataturk-orman-parki": { "placeName": "Atatürk Orman Parkı", "city": "Bolu", "district": "", "latitude": 40.7350, "longitude": 31.6061, "accuracy": "city", "_note": "Parkın kesin konumu doğrulanamadığı için şehir merkezinde gösterilir." },
+    "bolu-golcuk": { "placeName": "Gölcük Tabiat Parkı", "city": "Bolu", "district": "Merkez", "latitude": 40.6557, "longitude": 31.6283, "accuracy": "approximate" },
+    "bozcaada": { "placeName": "Bozcaada", "city": "Çanakkale", "district": "Bozcaada", "latitude": 39.8339, "longitude": 26.0706, "accuracy": "city" },
+    "tirilye": { "placeName": "Tirilye", "city": "Bursa", "district": "Mudanya", "latitude": 40.3917, "longitude": 28.7933, "accuracy": "approximate" },
+    "canakkale": { "placeName": "Çanakkale", "city": "Çanakkale", "district": "Merkez", "latitude": 40.1553, "longitude": 26.4142, "accuracy": "city" },
+    "canakkale-kiyilari": { "placeName": "Çanakkale kıyıları (genellikle Bozcaada, Geyikli, Kilitbahir, Gökçeada feribotu)", "city": "Çanakkale", "district": "", "latitude": 40.1553, "longitude": 26.4142, "accuracy": "city", "_note": "Fotoğraf sahibinin bilgisi; tek tek çekim yeri bilinmediği için il düzeyinde." },
+    "kilitbahir": { "placeName": "Kilitbahir", "city": "Çanakkale", "district": "Eceabat", "latitude": 40.1478, "longitude": 26.3794, "accuracy": "approximate" },
+    "lapseki": { "placeName": "Lapseki yakınları", "city": "Çanakkale", "district": "Lapseki", "latitude": 40.3444, "longitude": 26.6853, "accuracy": "city" },
+    "gokceada": { "placeName": "Gökçeada", "city": "Çanakkale", "district": "Gökçeada", "latitude": 40.1946, "longitude": 25.9075, "accuracy": "city" },
+    "kalekoy": { "placeName": "Kaleköy", "city": "Çanakkale", "district": "Gökçeada", "latitude": 40.2316, "longitude": 25.9050, "accuracy": "approximate" },
+    "ugurlu": { "placeName": "Uğurlu", "city": "Çanakkale", "district": "Gökçeada", "latitude": 40.1283, "longitude": 25.7070, "accuracy": "approximate" },
+    "zeytinlikoy": { "placeName": "Zeytinliköy", "city": "Çanakkale", "district": "Gökçeada", "latitude": 40.1869, "longitude": 25.8747, "accuracy": "approximate" },
+    "kapadokya": { "placeName": "Kapadokya", "city": "Nevşehir", "district": "Göreme", "latitude": 38.6431, "longitude": 34.8289, "accuracy": "city" },
+    "galata": { "placeName": "Galata", "city": "İstanbul", "district": "Beyoğlu", "latitude": 41.0245, "longitude": 28.9740, "accuracy": "approximate" }
+  },
+  "folderRules": [
+    { "folder": "ŞEHİRLER/Bolu", "place": "bolu" },
+    { "folder": "ŞEHİRLER/Bolu/Atatürk Orman Parkı", "place": "bolu-ataturk-orman-parki" },
+    { "folder": "ŞEHİRLER/Bolu/Gölcük", "place": "bolu-golcuk" },
+    { "folder": "ŞEHİRLER/Bozcaada", "place": "bozcaada" },
+    { "folder": "ŞEHİRLER/Bursa/Tirilye", "place": "tirilye" },
+    { "folder": "ŞEHİRLER/Çanakkale", "place": "canakkale" },
+    { "folder": "ŞEHİRLER/Çanakkale/Kilitbahir", "place": "kilitbahir" },
+    { "folder": "ŞEHİRLER/Gökçeada", "place": "gokceada" },
+    { "folder": "ŞEHİRLER/Gökçeada/Kaleköy", "place": "kalekoy" },
+    { "folder": "ŞEHİRLER/Gökçeada/Uğurlu", "place": "ugurlu" },
+    { "folder": "ŞEHİRLER/Gökçeada/Zeytinliköy", "place": "zeytinlikoy" }
+  ],
+  "filenameRules": [
+    { "contains": "gokceada feribot", "place": "canakkale-kiyilari" },
+    { "contains": "gokceada", "place": "gokceada" },
+    { "contains": "golcuk", "place": "bolu-golcuk", "_note": "Arşivin kendi ŞEHİRLER/Bolu/Gölcük klasörüyle eşleşir." },
+    { "contains": "zeytinlikoy", "place": "zeytinlikoy" },
+    { "contains": "galata", "place": "galata" }
+  ],
+  "manualRules": [
+    { "folder": "KONULAR/Ayçiçeği Tarlaları", "place": "lapseki" },
+    { "folder": "KONULAR/Kuşlar/Martılar", "place": "canakkale-kiyilari" },
+    { "folder": "KONULAR/Deniz Ulaşımı", "place": "canakkale-kiyilari" },
+    { "folder": "KONULAR/Sıcak Hava Balonları", "place": "kapadokya" }
+  ],
+  "unresolvedHints": [
+    { "contains": "tepekoy", "hint": "Tepeköy adı birden fazla yere ait; hangisi olduğu belirtilmeli." },
+    { "contains": "karacaoren", "hint": "Karacaören adı birden fazla yere ait; hangisi olduğu belirtilmeli." },
+    { "contains": "altinsu", "hint": "Altınsu adı birden fazla yere ait; hangisi olduğu belirtilmeli." },
+    { "contains": "zeytinli sokak", "hint": "Yer adı açık değil (Zeytinliköy olabilir, doğrulanmadı)." }
+  ]
+}

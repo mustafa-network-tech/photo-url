@@ -2,18 +2,21 @@
   'use strict';
 
   /**
-   * Validated city EXIF marker contract.
+   * Marker contract produced by scripts/build-map-locations.cjs.
    * @typedef {Object} MapPhoto
-   * @property {string} id
+   * @property {string} photoId
+   * @property {string} title
    * @property {string} imageUrl
-   * @property {string} photoUrl
+   * @property {string} thumbnailUrl
+   * @property {string} city
+   * @property {string} district
+   * @property {string} placeName
    * @property {number} latitude
    * @property {number} longitude
-   * @property {string} title
-   * @property {string} location
+   * @property {'exact'|'approximate'|'city'} locationAccuracy
+   * @property {'exif'|'metadata'|'folder'|'filename'|'manual'} locationSource
    * @property {string} category
-   * @property {'exif'} locationSource
-   * @property {true} exactLocation
+   * @property {string|null} dateTaken
    */
 
   // The viewport remains separate from the photo/grouping layer.

@@ -2,13 +2,21 @@
 
 ## Fotoğraf Haritası (/harita)
 
-`/harita`, mevcut statik HTML/CSS/JavaScript mimarisini kullanır. Google Maps yalnızca bu sayfada, resmi async script yükleme yöntemiyle açılır. Türkiye viewport merkezi 39,35'tir; fotoğraf konumu değildir. Konum arama ve kategoriler pasiftir. Fotoğraf katmanı yalnızca ŞEHİRLER dosyalarının doğrulanmış EXIF GPS verisini kabul eder; geocoding veya koordinat tahmini yapılmaz.
+`/harita`, mevcut statik HTML/CSS/JavaScript mimarisini kullanır. Google Maps yalnızca bu sayfada, resmi async script yükleme yöntemiyle açılır. Türkiye viewport merkezi 39,35'tir; fotoğraf konumu değildir. Konum arama ve kategoriler pasiftir. Fotoğraf katmanı EXIF GPS'i ve `harita/location-rules.json` içindeki elle doğrulanmış yer kayıtlarını kullanır; geocoding, görüntüden konum çıkarma veya koordinat tahmini yapılmaz (bkz. *Harita konumları*).
 
 Vercel → Settings → Environment Variables bölümünde **PUBLIC_GOOGLE_MAPS_API_KEY** ekleyin ve yeniden deploy edin. Build bu tek public değeri `.site/map-config.js` dosyasına yazar; diğer ortam değişkenlerini dışarı aktarmaz. Yerel geliştirmede aynı değişkeni kabuk ortamında tanımlayıp `npm run dev` çalıştırın. `.env` otomatik okunmaz. Anahtar yoksa açıklayıcı yapılandırma mesajı gösterilir ve Google'a istek yapılmaz.
 
 Google Cloud projesinde faturalandırma yapılandırılmalı ve yalnızca **Maps JavaScript API** etkinleştirilmelidir. Anahtarda Application restrictions → Websites (HTTP referrers) altında `https://arsiv.mavikadraj.com.tr/*` tanımlayın. API restrictions → Restrict key altında yalnızca Maps JavaScript API seçin. Yerel geliştirme için tercihen ayrı anahtarda `http://localhost:8767/*`, `http://127.0.0.1:8767/*` ve production çıktı testi için `http://127.0.0.1:8768/*` kullanın. Vercel preview gerekiyorsa yalnızca kendi preview alan adınızı ekleyin; genel `*.vercel.app` izni vermeyin. Tarayıcı anahtarı görünürdür; koruma domain/API kısıtlarıyla sağlanır. Kota ve bütçe uyarılarını Google Cloud'da yapılandırın.
 
 `harita/photo-map.js` viewport'u, `harita/photo-layer.js` fotoğraf noktalarını yönetir. Google Maps Data katmanında 48 piksellik dünya koordinatı hücreleriyle hafif gruplama yapılır; yakınlaşınca noktalar ayrılır, aynı koordinattaki fotoğraflar popup içindeki Önceki/Sonraki ile erişilebilir kalır. Hücre sınırlarına yakın noktalar ayrı gruplarda olabilir. Görsel yalnızca popup açıldığında yüklenir; mevcut thumbnail tercih edilir. Ayrı fotoğraf detay route'u olmadığından Fotoğrafı Aç mevcut orijinal public görsel URL'sini kullanır. Buraya Git, seçilen fotoğrafın gerçek GPS değerlerinden `https://www.google.com/maps/dir/?api=1&destination=LAT,LNG` üretir. Yeni API/paket/map ID gerekmez.
+
+### Harita konumları
+
+`node scripts/build-map-locations.cjs` yalnızca `images/KONULAR` ve `images/ŞEHİRLER` dosyalarını okur ve `harita/map-photos.js` ile `reports/map-locations.json` (özet + `unresolvedLocations`) üretir; `--check` güncelliği doğrular. `npm run build` veri setini aynı kurallarla yeniden üretir, `update-gallery.cmd` de sonunda bu betiği çalıştırır. Özel koleksiyonlar haritaya hiç alınmaz.
+
+Öncelik sırası: EXIF GPS (`exact`, `exif`) → ŞEHİRLER klasörü (`folder`) → dosya adındaki yer adı (`filename`) → elle girilmiş klasör kuralı (`manual`). Yer koordinatları `places` altında yerin bilinen yaklaşık merkezidir; `approximate` belirli bir yer, `city` şehir/ilçe/il düzeyidir. Hiçbir kurala uymayan fotoğraf haritaya eklenmez. Birden fazla yere uyabilen adlar (Tepeköy, Karacaören, Altınsu) bilerek eşlenmez. Yeni bir yer için `places` altına kayıt, ardından `folderRules`, `filenameRules` veya `manualRules` altına tek satır eklemek yeterlidir.
+
+Mevcut sonuç: 1409 fiziksel fotoğraf; exact 0 (dosyalarda EXIF yok), approximate 209, city 322, haritada 531, belirlenemeyen 878, 13 konum noktası. Kuşlar/Martılar ve Deniz Ulaşımı fotoğrafları, sahibinin “genellikle Bozcaada, Geyikli, Kilitbahir, Gökçeada feribotu” bilgisiyle il düzeyinde (Çanakkale) gösterilir; Ayçiçeği Tarlaları Lapseki, Sıcak Hava Balonları Kapadokya düzeyindedir.
 
 ### ŞEHİRLER GPS envanteri
 
